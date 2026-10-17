@@ -1,0 +1,37 @@
+[
+    {
+        "id": 1,
+        "title": "Trip to Paris",
+        "text": "Explore the city of lights.",
+        "image": "paris",
+        "link": "paris"
+    },
+    {
+        "id": 2,
+        "title": "Trip to Bali",
+        "text": "Relax on tropical beaches.",
+        "image": "paris",
+        "link": "paris"
+    },
+    {
+        "id": 3,
+        "title": "Trip to Tokyo",
+        "text": "Discover modern Japan.",
+        "image": "paris",
+        "link": "paris"
+    },
+    {
+        "id": 4,
+        "title": "Trip to New York",
+        "text": "Experience the big apple.",
+        "image": "paris",
+        "link": "paris"
+    },
+    {
+        "id": 5,
+        "title": "Trip to London",
+        "text": "Walk through historic streets.",
+        "image": "paris",
+        "link": "paris"
+    }
+]

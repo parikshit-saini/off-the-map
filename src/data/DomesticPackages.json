@@ -1,0 +1,4196 @@
+{
+  "doDhamYatra": {
+    "id": "do-dham-6d5n",
+    "destination": "uttarakhand",
+    "type": "domestic",
+    "path": "do-dham-yatra-by-road",
+    "seo": {
+      "metaTitle": "Do Dham Yatra Package | Kedarnath & Badrinath Tour 6 Days",
+      "metaDescription": "Book Do Dham Yatra by road covering Kedarnath and Badrinath in 6 days. Includes hotels, transfers, darshan assistance and scenic Himalayan journey.",
+      "metaKeywords": [
+        "do dham yatra package",
+        "kedarnath badrinath tour",
+        "do dham yatra by road",
+        "uttarakhand pilgrimage tour",
+        "kedarnath badrinath yatra cost",
+        "do dham tour package 6 days"
+      ],
+      "canonicalUrl": "/domesticpackages/do-dham-yatra-by-road/",
+      "ogTitle": "Do Dham Yatra – Kedarnath & Badrinath | 6 Days Pilgrimage",
+      "ogDescription": "Experience the sacred Do Dham Yatra covering Kedarnath and Badrinath with a well-planned 6-day spiritual journey.",
+      "ogImage": "/images/domestic/do_dham.webp"
+    },
+    "title": "Do Dham Yatra – Kedarnath & Badrinath",
+    "duration": "6 Days / 5 Nights",
+    "price": "On Request",
+    "image": "do_dham",
+    "link": "Thomas Cook’s Do Dham Yatra by Road",
+    "destinationsCovered": [
+      "Delhi",
+      "Haridwar",
+      "Guptkashi",
+      "Kedarnath",
+      "Badrinath",
+      "Rudraprayag"
+    ],
+    "travelStyle": [
+      "Pilgrimage",
+      "Spiritual Journey",
+      "Himalayan Road Trip"
+    ],
+    "idealFor": [
+      "Pilgrims",
+      "Senior Travelers",
+      "Spiritual Seekers"
+    ],
+    "bestSeason": "May to June & September to October",
+    "itinerary": [
+      {
+        "day": 1,
+        "title": "Delhi → Haridwar → Guptkashi",
+        "sections": [
+          {
+            "heading": "Journey & Sightseeing",
+            "items": [
+              "Drive from Delhi to Haridwar, then onward to Guptkashi.",
+              "En-route visit Devprayag & Rudraprayag – sacred river confluences.",
+              "Attend Ganga Aarti at Haridwar (time permitting)."
+            ]
+          },
+          {
+            "heading": "Food Trail",
+            "items": [
+              "Breakfast: Chotiwala Restaurant, Haridwar – North Indian classics.",
+              "Lunch: Highway dhabas – rajma chawal, aloo paratha.",
+              "Dinner: Hotel Shubham, Guptkashi – simple vegetarian thali."
+            ]
+          }
+        ],
+        "overnight": "Guptkashi"
+      },
+      {
+        "day": 2,
+        "title": "Guptkashi → Kedarnath Darshan",
+        "sections": [
+          {
+            "heading": "Pilgrimage",
+            "items": [
+              "Drive to Sonprayag, transfer to Gaurikund.",
+              "Trek 16 km to Kedarnath or opt for pony/doli/helicopter.",
+              "Darshan at Kedarnath Temple (one of the 12 Jyotirlingas)."
+            ]
+          },
+          {
+            "heading": "Food Trail",
+            "items": [
+              "Packed breakfast from hotel.",
+              "En-route snacks: Maggi, chai, dry fruits.",
+              "Dinner: GMVN Kedarnath – basic vegetarian meals."
+            ]
+          }
+        ],
+        "overnight": "Kedarnath / Guptkashi"
+      },
+      {
+        "day": 3,
+        "title": "Kedarnath → Guptkashi",
+        "sections": [
+          {
+            "heading": "Return Journey",
+            "items": [
+              "Descend from Kedarnath to Gaurikund.",
+              "Drive back to Guptkashi.",
+              "Rest and recovery."
+            ]
+          },
+          {
+            "heading": "Food Trail",
+            "items": [
+              "Breakfast: Temple-side stalls – poha, tea.",
+              "Lunch: Hotel Shubham – vegetarian comfort food.",
+              "Dinner: Local dhaba – dal, roti, sabzi."
+            ]
+          }
+        ],
+        "overnight": "Guptkashi"
+      },
+      {
+        "day": 4,
+        "title": "Guptkashi → Badrinath",
+        "sections": [
+          {
+            "heading": "Pilgrimage & Sightseeing",
+            "items": [
+              "Scenic drive via Joshimath.",
+              "Visit Badrinath Temple.",
+              "Tapt Kund & Mana Village."
+            ]
+          },
+          {
+            "heading": "Food Trail",
+            "items": [
+              "Lunch: Hotel Snow Crest, Joshimath – hot veg meals.",
+              "Snacks: Tea stalls near Mana Village.",
+              "Dinner: GMVN Badrinath – temple town thali."
+            ]
+          }
+        ],
+        "overnight": "Badrinath"
+      },
+      {
+        "day": 5,
+        "title": "Badrinath → Rudraprayag",
+        "sections": [
+          {
+            "heading": "Sightseeing",
+            "items": [
+              "Drive to Rudraprayag.",
+              "Visit confluence of Alaknanda & Mandakini rivers.",
+              "Darshan at Koteshwar Mahadev Temple."
+            ]
+          },
+          {
+            "heading": "Food Trail",
+            "items": [
+              "Breakfast: GMVN Badrinath.",
+              "Lunch: Local dhaba – rajma rice.",
+              "Dinner: Hotel Monal – Garhwali cuisine."
+            ]
+          }
+        ],
+        "overnight": "Rudraprayag"
+      },
+      {
+        "day": 6,
+        "title": "Rudraprayag → Haridwar → Delhi",
+        "sections": [
+          {
+            "heading": "Return Journey",
+            "items": [
+              "Drive back to Haridwar.",
+              "Optional shopping for prasad & souvenirs.",
+              "Continue journey to Delhi."
+            ]
+          }
+        ],
+        "overnight": "Delhi"
+      }
+    ],
+    "foodGuide": [
+      {
+        "dish": "North Indian Thali",
+        "place": "Chotiwala Restaurant",
+        "location": "Haridwar",
+        "special": "Classic pilgrimage-style vegetarian meal",
+        "image": "uttarakhand/North_Indian_Thali"
+      },
+      {
+        "dish": "Aloo Paratha",
+        "place": "Highway Dhabas",
+        "location": "Uttarakhand Hills",
+        "special": "Filling travel meal",
+        "image": "uttarakhand/Aloo_Paratha"
+      },
+      {
+        "dish": "Garhwali Thali",
+        "place": "Hotel Monal",
+        "location": "Rudraprayag",
+        "special": "Local Himalayan flavors",
+        "image": "uttarakhand/Garhwali_Thali"
+      }
+    ],
+    "nightlifeGuide": [
+      {
+        "city": "Haridwar",
+        "spot": "Ganga Aarti at Har Ki Pauri",
+        "vibe": "Deeply spiritual & serene",
+        "notes": "Evening ritual with lamps and chants"
+      },
+      {
+        "city": "Kedarnath",
+        "spot": "Temple Premises",
+        "vibe": "Sacred silence & chants",
+        "notes": "Spiritual energy after darshan"
+      },
+      {
+        "city": "Badrinath",
+        "spot": "Badrinath Temple Aarti",
+        "vibe": "Devotional & peaceful",
+        "notes": "Evening prayers"
+      }
+    ],
+    "inclusions": [
+      "Hotel accommodation",
+      "Daily breakfast",
+      "All transfers & sightseeing",
+      "Darshan assistance",
+      "Driver allowance, tolls & parking"
+    ],
+    "exclusions": [
+      "Helicopter / pony / doli charges",
+      "Meals not mentioned",
+      "Personal expenses",
+      "Travel insurance",
+      "Anything not mentioned in inclusions"
+    ]
+  },
+  "charDhamYatra": {
+    "id": "char-dham-11d10n",
+    "destination": "uttarakhand",
+    "type": "domestic",
+    "path": "char-dham-yatra-11-days",
+    "seo": {
+      "metaTitle": "Char Dham Yatra Package | 11 Days Kedarnath Badrinath Tour",
+      "metaDescription": "Book Char Dham Yatra package covering Kedarnath, Badrinath, Gangotri and Yamunotri in 11 days with complete pilgrimage arrangements.",
+      "metaKeywords": [
+        "char dham yatra package",
+        "char dham tour 11 days",
+        "kedarnath badrinath gangotri yamunotri",
+        "uttarakhand char dham yatra",
+        "char dham pilgrimage tour"
+      ],
+      "canonicalUrl": "/domesticpackages/char-dham-yatra-11-days/",
+      "ogTitle": "Char Dham Yatra – 11 Days Sacred Pilgrimage",
+      "ogDescription": "Complete Char Dham Yatra covering all four holy shrines with comfortable travel and darshan assistance.",
+      "ogImage": "/images/domestic/char_dham.webp"
+    },
+    "title": "Char Dham Yatra – Kedarnath, Badrinath, Gangotri & Yamunotri",
+    "duration": "11 Days / 10 Nights",
+    "price": "On Request",
+    "image": "char_dham",
+    "link": "10 Nights 11 Days Char Dham Tour Package",
+    "destinationsCovered": [
+      "Haridwar",
+      "Barkot",
+      "Uttarkashi",
+      "Gangotri",
+      "Yamunotri",
+      "Sitapur",
+      "Kedarnath",
+      "Badrinath"
+    ],
+    "travelStyle": [
+      "Pilgrimage",
+      "Spiritual Exploration",
+      "Mountain Journey"
+    ],
+    "idealFor": [
+      "Pilgrims",
+      "Senior Citizens",
+      "Devotees"
+    ],
+    "bestSeason": "May to June & September to October",
+    "itinerary": [
+      {
+        "day": 1,
+        "title": "Arrival in Haridwar",
+        "sections": [
+          {
+            "heading": "Spiritual Start",
+            "items": [
+              "Arrival and hotel check-in.",
+              "Ganga Snan at Har Ki Pauri.",
+              "Evening Ganga Aarti.",
+              "Optional visit to Chila Forest Range."
+            ]
+          }
+        ],
+        "overnight": "Haridwar"
+      },
+      {
+        "day": 2,
+        "title": "Haridwar → Barkot via Mussoorie",
+        "sections": [
+          {
+            "heading": "Scenic Drive",
+            "items": [
+              "Drive via Mussoorie.",
+              "Stop at Kempty Falls.",
+              "Check-in at Barkot."
+            ]
+          }
+        ],
+        "overnight": "Barkot"
+      },
+      {
+        "day": 3,
+        "title": "Barkot → Yamunotri → Barkot",
+        "sections": [
+          {
+            "heading": "First Dham",
+            "items": [
+              "Drive to Janakichatti.",
+              "6 km trek to Yamunotri.",
+              "Surya Kund, Divya Shila & Yamunotri Temple darshan."
+            ]
+          }
+        ],
+        "overnight": "Barkot"
+      },
+      {
+        "day": 4,
+        "title": "Barkot → Uttarkashi",
+        "sections": [
+          {
+            "heading": "Temple Visits",
+            "items": [
+              "Visit Kashi Vishwanath Temple.",
+              "Drive to Gangnani hot springs."
+            ]
+          }
+        ],
+        "overnight": "Uttarkashi"
+      },
+      {
+        "day": 5,
+        "title": "Gangotri Excursion",
+        "sections": [
+          {
+            "heading": "Second Dham",
+            "items": [
+              "Gangotri Temple darshan.",
+              "Bhagirath Shila & Surya Kund.",
+              "Return to Uttarkashi."
+            ]
+          }
+        ],
+        "overnight": "Uttarkashi"
+      },
+      {
+        "day": 6,
+        "title": "Uttarkashi → Sitapur",
+        "sections": [
+          {
+            "heading": "Long Drive",
+            "items": [
+              "Scenic Himalayan drive to Sitapur.",
+              "Hotel check-in and rest."
+            ]
+          }
+        ],
+        "overnight": "Sitapur"
+      },
+      {
+        "day": 7,
+        "title": "Kedarnath Darshan",
+        "sections": [
+          {
+            "heading": "Third Dham",
+            "items": [
+              "Drive to Gaurikund.",
+              "16 km trek to Kedarnath.",
+              "Darshan at Kedarnath Temple."
+            ]
+          }
+        ],
+        "overnight": "Sitapur"
+      },
+      {
+        "day": 8,
+        "title": "Sitapur – Leisure Day",
+        "sections": [
+          {
+            "heading": "Optional Visit",
+            "items": [
+              "Optional visit to Triyuginarayan Temple."
+            ]
+          }
+        ],
+        "overnight": "Sitapur"
+      },
+      {
+        "day": 9,
+        "title": "Sitapur → Badrinath",
+        "sections": [
+          {
+            "heading": "Fourth Dham",
+            "items": [
+              "Visit Narsimha Temple.",
+              "Darshan at Badrinath Temple.",
+              "Visit Mana Village, Vyas Gufa & Bheem Pul."
+            ]
+          }
+        ],
+        "overnight": "Badrinath"
+      },
+      {
+        "day": 10,
+        "title": "Badrinath → Haridwar",
+        "sections": [
+          {
+            "heading": "Return Journey",
+            "items": [
+              "Drive back to Haridwar.",
+              "Optional shopping."
+            ]
+          }
+        ],
+        "overnight": "Haridwar"
+      },
+      {
+        "day": 11,
+        "title": "Departure",
+        "sections": [
+          {
+            "heading": "Tour Ends",
+            "items": [
+              "Breakfast & checkout.",
+              "Transfer to railway station / onward destination."
+            ]
+          }
+        ],
+        "overnight": "Departure"
+      }
+    ],
+    "foodGuide": [
+      {
+        "dish": "Simple Vegetarian Thali",
+        "place": "GMVN Guest Houses",
+        "location": "Char Dham Route",
+        "special": "Satvik pilgrimage meals",
+        "image": "uttarakhand/Vegetarian_Thali"
+      }
+    ],
+    "nightlifeGuide": [
+      {
+        "city": "Haridwar",
+        "spot": "Ganga Aarti",
+        "vibe": "Powerful spiritual gathering",
+        "notes": "Devotional chants & lamps"
+      },
+      {
+        "city": "Kedarnath",
+        "spot": "Temple Evening Darshan",
+        "vibe": "Sacred silence",
+        "notes": "Meditative atmosphere"
+      },
+      {
+        "city": "Badrinath",
+        "spot": "Temple Aarti",
+        "vibe": "Peaceful & devotional",
+        "notes": "Evening prayers"
+      }
+    ],
+    "inclusions": [
+      "Hotel accommodation",
+      "Daily breakfast & dinner",
+      "All transfers & sightseeing",
+      "Darshan assistance",
+      "Driver allowance & tolls"
+    ],
+    "exclusions": [
+      "Helicopter / pony / doli charges",
+      "Personal expenses",
+      "Travel insurance",
+      "Anything not mentioned in inclusions"
+    ]
+  },
+  "dwarkaPilgrimageCircuit": {
+    "id": "dwarka-4d3n",
+    "destination": "gujarat",
+    "type": "domestic",
+    "path": "dwarka-pilgrimage-circuit-4-days",
+    "seo": {
+      "metaTitle": "Dwarka Pilgrimage Tour Package | 4 Days Dwarka Yatra",
+      "metaDescription": "Book Dwarka pilgrimage tour package for 4 days covering Dwarkadhish Temple, Bet Dwarka and Nageshwar Jyotirlinga in Gujarat.",
+      "metaKeywords": [
+        "dwarka pilgrimage tour",
+        "dwarka tour package",
+        "bet dwarka nageshwar jyotirlinga",
+        "gujarat temple tour",
+        "dwarkadhish temple yatra"
+      ],
+      "canonicalUrl": "/domesticpackages/dwarka-pilgrimage-circuit-4-days/",
+      "ogTitle": "Dwarka Pilgrimage Circuit – 4 Days Spiritual Tour",
+      "ogDescription": "Sacred Dwarka pilgrimage covering Dwarkadhish Temple, Bet Dwarka and Nageshwar Jyotirlinga.",
+      "ogImage": "/images/domestic/dwarka_gujarat.webp"
+    },
+    "title": "Dwarka Pilgrimage Circuit",
+    "duration": "4 Days / 3 Nights",
+    "price": "On Request",
+    "image": "dwarka_gujarat",
+    "link": "Dwarka Pilgrimage Circuit – 3 Nights / 4 Days",
+    "destinationsCovered": [
+      "Ahmedabad",
+      "Dwarka",
+      "Bet Dwarka",
+      "Nageshwar"
+    ],
+    "travelStyle": [
+      "Pilgrimage",
+      "Spiritual",
+      "Heritage"
+    ],
+    "idealFor": [
+      "Pilgrims",
+      "Families",
+      "Senior Citizens"
+    ],
+    "bestSeason": "October to March",
+    "itinerary": [
+      {
+        "day": 1,
+        "title": "Ahmedabad → Dwarka",
+        "sections": [
+          {
+            "heading": "Journey",
+            "items": [
+              "Pickup from Ahmedabad airport/railway station.",
+              "Scenic drive to Dwarka (approx. 450 km / 8 hrs).",
+              "Hotel check-in and rest.",
+              "Optional evening aarti at Dwarkadhish Temple."
+            ]
+          }
+        ],
+        "overnight": "Dwarka"
+      },
+      {
+        "day": 2,
+        "title": "Dwarka Local Sightseeing",
+        "sections": [
+          {
+            "heading": "Temple Visits",
+            "items": [
+              "Dwarkadhish Temple – one of the Char Dham sites.",
+              "Rukmini Devi Temple.",
+              "Gopi Talav.",
+              "Sudama Setu.",
+              "Optional local market exploration."
+            ]
+          }
+        ],
+        "overnight": "Dwarka"
+      },
+      {
+        "day": 3,
+        "title": "Bet Dwarka & Nageshwar Jyotirlinga",
+        "sections": [
+          {
+            "heading": "Excursion",
+            "items": [
+              "Ferry ride to Bet Dwarka.",
+              "Visit Hanuman Temple.",
+              "Visit Nageshwar Jyotirlinga – one of the 12 Jyotirlingas.",
+              "Optional sunset at Dwarka Beach."
+            ]
+          }
+        ],
+        "overnight": "Dwarka"
+      },
+      {
+        "day": 4,
+        "title": "Dwarka → Ahmedabad Departure",
+        "sections": [
+          {
+            "heading": "Return",
+            "items": [
+              "Early breakfast.",
+              "Drive back to Ahmedabad.",
+              "Drop at airport/railway station."
+            ]
+          }
+        ],
+        "overnight": "Departure"
+      }
+    ],
+    "foodGuide": [
+      {
+        "dish": "Gujarati Thali",
+        "place": "Local Bhojanalaya",
+        "location": "Dwarka",
+        "special": "Pure vegetarian satvik meal",
+        "image": "gujarat/Gujarati_Thali"
+      }
+    ],
+    "nightlifeGuide": [
+      {
+        "city": "Dwarka",
+        "spot": "Dwarkadhish Temple Aarti",
+        "vibe": "Deeply spiritual",
+        "notes": "Evening prayers with chants"
+      },
+      {
+        "city": "Dwarka",
+        "spot": "Dwarka Beach",
+        "vibe": "Calm & reflective",
+        "notes": "Peaceful sunset experience"
+      }
+    ],
+    "inclusions": [
+      "AC vehicle for transfers and sightseeing",
+      "3-star hotel accommodation with breakfast",
+      "Ferry tickets to Bet Dwarka",
+      "Toll, parking & driver allowance",
+      "All applicable taxes"
+    ],
+    "exclusions": [
+      "Monument entry fees",
+      "Meals beyond breakfast",
+      "Personal expenses & tips",
+      "Travel insurance",
+      "Temple pujas or special rituals"
+    ]
+  },
+  "serenePuriGetaway": {
+    "id": "puri-3d2n",
+    "destination": "odisha",
+    "type": "domestic",
+    "path": "serene-puri-getaway-3-days",
+    "seo": {
+      "metaTitle": "Puri Tour Package | Jagannath Puri & Konark 3 Days",
+      "metaDescription": "Book Puri tour package for 3 days covering Jagannath Temple, Chilika Lake and Konark Sun Temple with comfortable travel.",
+      "metaKeywords": [
+        "puri tour package",
+        "jagannath puri yatra",
+        "konark sun temple tour",
+        "chilika lake dolphin tour",
+        "odisha pilgrimage tour"
+      ],
+      "canonicalUrl": "/domesticpackages/serene-puri-getaway-3-days/",
+      "ogTitle": "Serene Puri Getaway – 3 Days Pilgrimage Tour",
+      "ogDescription": "Spiritual and coastal journey covering Jagannath Puri, Konark Sun Temple and Chilika Lake.",
+      "ogImage": "/images/domestic/puri_odisha.webp"
+    },
+    "title": "Serene Puri Getaway",
+    "duration": "3 Days / 2 Nights",
+    "price": "On Request",
+    "image": "puri_odisha",
+    "link": "Serene Puri Getaway – 2 Nights / 3 Days",
+    "destinationsCovered": [
+      "Bhubaneswar",
+      "Puri",
+      "Konark"
+    ],
+    "travelStyle": [
+      "Pilgrimage",
+      "Cultural",
+      "Coastal"
+    ],
+    "idealFor": [
+      "Pilgrims",
+      "Families"
+    ],
+    "bestSeason": "October to March",
+    "itinerary": [
+      {
+        "day": 1,
+        "title": "Bhubaneswar → Puri",
+        "sections": [
+          {
+            "heading": "Sightseeing",
+            "items": [
+              "Pickup from Bhubaneswar Airport/Railway Station.",
+              "Visit Dhauli Peace Pagoda.",
+              "Heera 64 Yogini Temple.",
+              "Pipli Village.",
+              "Sakhigopal Temple.",
+              "Raghurajpur Painting Village.",
+              "Evening visit to Puri Beach Market."
+            ]
+          }
+        ],
+        "overnight": "Puri"
+      },
+      {
+        "day": 2,
+        "title": "Jagannath Temple & Chilika Lake",
+        "sections": [
+          {
+            "heading": "Pilgrimage & Nature",
+            "items": [
+              "Early morning aarti at Jagannath Temple.",
+              "Visit Gundicha Temple.",
+              "Drive to Chilika Lake (Satpada) for dolphin spotting.",
+              "Visit Alarnath Temple.",
+              "Optional sunset at Puri Beach."
+            ]
+          }
+        ],
+        "overnight": "Puri"
+      },
+      {
+        "day": 3,
+        "title": "Puri → Konark → Departure",
+        "sections": [
+          {
+            "heading": "Heritage",
+            "items": [
+              "Visit Konark Sun Temple (UNESCO site).",
+              "Ramchandi Temple.",
+              "Chandrabhaga Beach.",
+              "Drop at Bhubaneswar Airport/Railway Station."
+            ]
+          }
+        ],
+        "overnight": "Departure"
+      }
+    ],
+    "foodGuide": [
+      {
+        "dish": "Mahaprasad",
+        "place": "Jagannath Temple",
+        "location": "Puri",
+        "special": "Sacred temple offering",
+        "image": "odisha/Mahaprasad"
+      }
+    ],
+    "nightlifeGuide": [
+      {
+        "city": "Puri",
+        "spot": "Jagannath Temple Evening Aarti",
+        "vibe": "Devotional & peaceful",
+        "notes": "Spiritual highlight of the day"
+      },
+      {
+        "city": "Puri",
+        "spot": "Puri Beach",
+        "vibe": "Calm coastal evening",
+        "notes": "Sea breeze & reflection"
+      }
+    ],
+    "inclusions": [
+      "AC vehicle for transfers & sightseeing",
+      "3-star hotel accommodation with breakfast",
+      "Toll, parking & driver allowance",
+      "All applicable taxes"
+    ],
+    "exclusions": [
+      "Monument entry fees",
+      "Meals beyond breakfast",
+      "Personal expenses & tips",
+      "Temple rituals or special pujas",
+      "Travel insurance"
+    ]
+  },
+  "tamilNaduTempleTrail": {
+    "id": "tamil-nadu-5d4n",
+    "destination": "tamil-nadu",
+    "type": "domestic",
+    "path": "tamil-nadu-temple-trail-5-days",
+    "seo": {
+      "metaTitle": "Tamil Nadu Temple Tour Package | 5 Days South India Yatra",
+      "metaDescription": "Explore the famous temples of Tamil Nadu in a 5-day pilgrimage tour covering Madurai, Rameswaram, Thanjavur, Chidambaram and Trichy.",
+      "metaKeywords": [
+        "tamil nadu temple tour",
+        "south india pilgrimage package",
+        "madurai rameswaram tour",
+        "tamil nadu spiritual trip",
+        "south india temple trail"
+      ],
+      "canonicalUrl": "/domesticpackages/tamil-nadu-temple-trail-5-days/",
+      "ogTitle": "Tamil Nadu Temple Trail – 5 Days Spiritual Tour",
+      "ogDescription": "Sacred South India temple journey covering Madurai, Rameswaram, Thanjavur and Chidambaram.",
+      "ogImage": "/images/domestic/tamilnadu_karnataka.webp"
+    },
+    "title": "Tamil Nadu Temple Trail",
+    "duration": "5 Days / 4 Nights",
+    "price": "On Request",
+    "image": "tamilnadu_karnataka",
+    "link": "Tamil Nadu Temple Trail – 5 Days",
+    "destinationsCovered": [
+      "Chennai",
+      "Chidambaram",
+      "Thanjavur",
+      "Madurai",
+      "Rameswaram",
+      "Trichy"
+    ],
+    "travelStyle": [
+      "Pilgrimage",
+      "Heritage",
+      "Cultural"
+    ],
+    "idealFor": [
+      "Pilgrims",
+      "Culture Enthusiasts"
+    ],
+    "bestSeason": "October to March",
+    "itinerary": [
+      {
+        "day": 1,
+        "title": "Chennai → Chidambaram",
+        "sections": [
+          {
+            "heading": "Temple Visits",
+            "items": [
+              "Drive to Chidambaram.",
+              "Visit Thillai Nataraja Temple.",
+              "Visit Vaitheeswaran Koil."
+            ]
+          }
+        ],
+        "overnight": "Chidambaram"
+      },
+      {
+        "day": 2,
+        "title": "Chidambaram → Thanjavur",
+        "sections": [
+          {
+            "heading": "Heritage",
+            "items": [
+              "Visit Brihadeeswarar Temple (UNESCO).",
+              "Thanjavur Palace & Art Gallery.",
+              "Visit Thiruvaiyaru."
+            ]
+          }
+        ],
+        "overnight": "Thanjavur"
+      },
+      {
+        "day": 3,
+        "title": "Thanjavur → Madurai",
+        "sections": [
+          {
+            "heading": "Temple Circuit",
+            "items": [
+              "Visit Meenakshi Amman Temple.",
+              "Thirumalai Nayak Mahal.",
+              "Koodal Alagar Temple."
+            ]
+          }
+        ],
+        "overnight": "Madurai"
+      },
+      {
+        "day": 4,
+        "title": "Rameswaram Excursion",
+        "sections": [
+          {
+            "heading": "Pilgrimage",
+            "items": [
+              "Visit Agnitheertham.",
+              "Ramanathaswamy Temple.",
+              "Dhanushkodi.",
+              "Return to Madurai."
+            ]
+          }
+        ],
+        "overnight": "Madurai"
+      },
+      {
+        "day": 5,
+        "title": "Madurai → Trichy → Chennai",
+        "sections": [
+          {
+            "heading": "Final Temples",
+            "items": [
+              "Visit Thiruvanaikoil.",
+              "Sri Ranganathaswamy Temple (Srirangam).",
+              "Rock Fort Temple.",
+              "Return to Chennai."
+            ]
+          }
+        ],
+        "overnight": "Departure"
+      }
+    ],
+    "foodGuide": [
+      {
+        "dish": "South Indian Vegetarian Thali",
+        "place": "Temple Town Restaurants",
+        "location": "Tamil Nadu",
+        "special": "Traditional satvik meals",
+        "image": "tamil-nadu/South_Indian_Thali"
+      }
+    ],
+    "nightlifeGuide": [
+      {
+        "city": "Madurai",
+        "spot": "Meenakshi Temple Night Aarti",
+        "vibe": "Spiritual & grand",
+        "notes": "Iconic temple ceremony"
+      },
+      {
+        "city": "Rameswaram",
+        "spot": "Agnitheertham Evening",
+        "vibe": "Quiet & devotional",
+        "notes": "Sea-side spiritual calm"
+      }
+    ],
+    "inclusions": [
+      "Private AC vehicle with driver",
+      "3-star hotel accommodation with breakfast",
+      "Toll, parking & driver allowance",
+      "All taxes & itinerary coordination"
+    ],
+    "exclusions": [
+      "Monument entry fees",
+      "Meals beyond breakfast",
+      "Personal expenses",
+      "Temple rituals or special pujas",
+      "Travel insurance"
+    ]
+  },
+  "completeGoaTour": {
+    "id": "goa-6d5n-complete",
+    "destination": "goa",
+    "type": "domestic",
+    "path": "complete-goa-tour-6-days",
+    "seo": {
+      "metaTitle": "Goa Tour Package | Complete Goa Trip 6 Days 5 Nights",
+      "metaDescription": "Book complete Goa tour package for 6 days covering North Goa, South Goa, Dudhsagar Falls, Butterfly Beach and exciting nightlife.",
+      "metaKeywords": [
+        "goa tour package",
+        "complete goa trip",
+        "goa tour 6 days",
+        "north goa south goa tour",
+        "goa nightlife package",
+        "goa beach holiday"
+      ],
+      "canonicalUrl": "/domesticpackages/complete-goa-tour-6-days/",
+      "ogTitle": "Complete Goa Tour – 6 Days Beach & Nightlife Holiday",
+      "ogDescription": "Beach adventures, waterfalls, nightlife and cultural experiences in this complete 6-day Goa tour.",
+      "ogImage": "/images/domestic/goa_beach.webp"
+    },
+    "title": "Complete Goa Tour",
+    "duration": "6 Days / 5 Nights",
+    "price": "On Request",
+    "image": "goa_beach",
+    "link": "Complete Goa Tour – 6 Days / 5 Nights",
+    "destinationsCovered": [
+      "Aguada Fort",
+      "Sinquerim",
+      "Candolim",
+      "Calangute",
+      "Baga",
+      "Anjuna",
+      "Vagator",
+      "Dudhsagar Falls",
+      "Spice Plantations",
+      "Butterfly Beach",
+      "Palolem"
+    ],
+    "travelStyle": [
+      "Beach",
+      "Adventure",
+      "Culture",
+      "Nightlife"
+    ],
+    "idealFor": [
+      "Couples",
+      "Friends",
+      "Families"
+    ],
+    "bestSeason": "October to March",
+    "itinerary": [
+      {
+        "day": 1,
+        "title": "Arrival in Goa",
+        "sections": [
+          {
+            "heading": "Activities",
+            "items": [
+              "Pickup from Goa Airport / Railway Station.",
+              "Transfer to hotel and check-in.",
+              "Relax and unwind.",
+              "Evening free to explore nearby beaches or beach shacks."
+            ]
+          }
+        ],
+        "overnight": "Goa"
+      },
+      {
+        "day": 2,
+        "title": "North Goa Sightseeing & Nightlife",
+        "sections": [
+          {
+            "heading": "Sightseeing",
+            "items": [
+              "Breakfast at hotel.",
+              "Full-day North Goa tour covering Aguada Fort, Sinquerim Beach, Candolim Beach, Calangute Beach, Baga Beach, Anjuna Beach, Vagator Beach.",
+              "Evening visit to Tito’s Lane, Baga for nightlife."
+            ]
+          }
+        ],
+        "overnight": "Goa"
+      },
+      {
+        "day": 3,
+        "title": "Water Sports at Calangute",
+        "sections": [
+          {
+            "heading": "Adventure",
+            "items": [
+              "Breakfast at hotel.",
+              "Optional water sports at Calangute Beach (extra cost): Jet Ski, Banana Boat, Speedboat, Paragliding, Bumper rides.",
+              "Enjoy sunset at Calangute or Baga Beach.",
+              "Explore flea markets and beach shacks."
+            ]
+          }
+        ],
+        "overnight": "Goa"
+      },
+      {
+        "day": 4,
+        "title": "Dudhsagar Waterfalls & Spice Plantation",
+        "sections": [
+          {
+            "heading": "Excursion",
+            "items": [
+              "Breakfast at hotel.",
+              "Excursion to Dudhsagar Waterfalls via Mollem Wildlife Sanctuary.",
+              "Guided spice plantation tour.",
+              "Return to hotel by evening."
+            ]
+          }
+        ],
+        "overnight": "Goa"
+      },
+      {
+        "day": 5,
+        "title": "Butterfly Beach Excursion",
+        "sections": [
+          {
+            "heading": "Beach Adventure",
+            "items": [
+              "Breakfast at hotel.",
+              "Transfer to Palolem Beach.",
+              "Speedboat ride to Butterfly Beach.",
+              "Activities include snorkeling, kayaking and hiking trails.",
+              "Spot butterflies and enjoy secluded golden sands.",
+              "Return to hotel by evening."
+            ]
+          }
+        ],
+        "overnight": "Goa"
+      },
+      {
+        "day": 6,
+        "title": "Departure",
+        "sections": [
+          {
+            "heading": "Return",
+            "items": [
+              "Breakfast at hotel.",
+              "Check-out and transfer to Goa Airport / Railway Station.",
+              "Tour ends with tropical memories."
+            ]
+          }
+        ],
+        "overnight": "Departure"
+      }
+    ],
+    "foodGuide": [
+      {
+        "dish": "Goan Fish Curry Rice (Xitti Kodi)",
+        "place": "Ritz Classic",
+        "location": "Panjim",
+        "special": "Signature coconut-based curry",
+        "image": "goa/Goan_Fish_Curry_Rice_(Xitti_Kodi)"
+      },
+      {
+        "dish": "Pork Vindaloo",
+        "place": "Mum’s Kitchen",
+        "location": "Panjim",
+        "special": "Portuguese-inspired spicy pork curry",
+        "image": "goa/Pork_Vindaloo"
+      },
+      {
+        "dish": "Bebinca",
+        "place": "Café Tato",
+        "location": "Panjim",
+        "special": "Traditional layered Goan dessert",
+        "image": "goa/Bebinca"
+      },
+      {
+        "dish": "Seafood Platter",
+        "place": "Souza Lobo",
+        "location": "Calangute",
+        "special": "Fresh catch with beachfront dining",
+        "image": "goa/Goan_Seafood_Platter"
+      },
+      {
+        "dish": "Chicken Cafreal",
+        "place": "Fisherman’s Wharf",
+        "location": "Cavelossim",
+        "special": "Green masala grilled chicken",
+        "image": "goa/Chicken_Cafreal"
+      },
+      {
+        "dish": "Feni (Cashew Liquor)",
+        "place": "Local Taverns",
+        "location": "North Goa",
+        "special": "Traditional Goan alcoholic drink",
+        "image": "goa/Kaju_Feni"
+      },
+      {
+        "dish": "Ros Omelette",
+        "place": "Street Food Stalls",
+        "location": "Mapusa / Calangute",
+        "special": "Egg omelette with spicy curry gravy",
+        "image": "goa/Ros_Omelette"
+      },
+      {
+        "dish": "Sannas",
+        "place": "Local Goan Homes & Cafés",
+        "location": "Goa",
+        "special": "Steamed fermented rice bread",
+        "image": "goa/Sannas"
+      },
+      {
+        "dish": "Sorpotel",
+        "place": "Traditional Goan Restaurants",
+        "location": "Goa",
+        "special": "Spicy pork curry with vinegar",
+        "image": "goa/Sorpotel"
+      },
+      {
+        "dish": "Kokum Sherbet",
+        "place": "Local Cafés",
+        "location": "Goa",
+        "special": "Refreshing coastal drink",
+        "image": "goa/Kokum_Sherbet"
+      }
+    ],
+    "nightlifeGuide": [
+      {
+        "city": "Baga",
+        "spot": "Tito’s Lane",
+        "vibe": "Iconic pubs & clubs",
+        "notes": "Most famous nightlife street in Goa"
+      },
+      {
+        "city": "Baga",
+        "spot": "Café Mambo",
+        "vibe": "Dance & cocktails",
+        "notes": "Popular clubbing spot"
+      },
+      {
+        "city": "Anjuna",
+        "spot": "Curlies Beach Shack",
+        "vibe": "Sunset parties",
+        "notes": "Legendary beach party venue"
+      },
+      {
+        "city": "Vagator",
+        "spot": "Hilltop Goa",
+        "vibe": "Psytrance & EDM",
+        "notes": "Famous for trance parties"
+      },
+      {
+        "city": "Panjim",
+        "spot": "Deltin Royale Casino",
+        "vibe": "Luxury gaming & entertainment",
+        "notes": "Premium casino experience"
+      },
+      {
+        "city": "Calangute",
+        "spot": "Beach Shacks",
+        "vibe": "Casual drinks & live music",
+        "notes": "Relaxed evening vibes"
+      },
+      {
+        "city": "Palolem",
+        "spot": "Silent Noise Party",
+        "vibe": "Unique headphone party",
+        "notes": "Music without noise pollution"
+      },
+      {
+        "city": "Mandovi River",
+        "spot": "River Cruise",
+        "vibe": "Dinner & cultural show",
+        "notes": "Evening cruise experience"
+      }
+    ],
+    "inclusions": [
+      "Accommodation (Standard / Deluxe options)",
+      "Daily breakfast (Day 2–6)",
+      "Airport / railway station transfers",
+      "North Goa sightseeing (SIC basis)",
+      "Dudhsagar Falls & Spice Plantation excursion (private transfers)",
+      "Butterfly Beach excursion (self-drive + boat transfer)"
+    ],
+    "exclusions": [
+      "Flights or train tickets to Goa",
+      "Lunches & dinners unless specified",
+      "Optional water sports & casino entry",
+      "Personal expenses, tips & insurance",
+      "Anything not mentioned in inclusions"
+    ]
+  },
+  "offbeatHimachalManaliSissuKeylong": {
+    "id": "himachal-manali-sissu-keylong-6n7d",
+    "destination": "himachal-pradesh",
+    "type": "domestic",
+    "path": "offbeat-himachal-manali-sissu-keylong",
+    "seo": {
+      "metaTitle": "Offbeat Himachal Tour | Manali Sissu Keylong 7 Days",
+      "metaDescription": "Explore offbeat Himachal with this 7-day tour covering Manali, Sissu, Keylong, Jispa and high-altitude Himalayan passes.",
+      "metaKeywords": [
+        "offbeat himachal tour",
+        "manali sissu keylong trip",
+        "himachal offbeat itinerary",
+        "lahaul valley tour",
+        "manali offbeat tour package",
+        "himachal road trip"
+      ],
+      "canonicalUrl": "/domesticpackages/offbeat-himachal-manali-sissu-keylong/",
+      "ogTitle": "Offbeat Himachal – Manali, Sissu & Keylong Tour",
+      "ogDescription": "High-altitude drives, cultural villages and scenic Himalayan landscapes in this offbeat Himachal journey.",
+      "ogImage": "/images/domestic/manali_himachal.webp"
+    },
+    "title": "Offbeat Himachal Tour – Manali, Sissu & Keylong",
+    "duration": "7 Days / 6 Nights",
+    "price": "On Request",
+    "image": "manali_himachal",
+    "link": "6N/7D Offbeat Himachal Tour – Manali Sissu Keylong",
+    "destinationsCovered": [
+      "Chandigarh",
+      "Manali",
+      "Keylong",
+      "Jispa",
+      "Sissu",
+      "Solang Valley",
+      "Naggar"
+    ],
+    "travelStyle": [
+      "Scenic Drives",
+      "Cultural Touchpoints",
+      "High-Altitude Exploration",
+      "Food Trails"
+    ],
+    "idealFor": [
+      "Couples",
+      "Friends",
+      "Nature Lovers",
+      "Offbeat Travelers"
+    ],
+    "bestSeason": "May to October",
+    "itinerary": [
+      {
+        "day": 1,
+        "title": "Arrival & Drive to Manali",
+        "sections": [
+          {
+            "heading": "Journey",
+            "items": [
+              "Pickup from Chandigarh Airport.",
+              "Scenic drive to Manali (8–10 hrs).",
+              "Stops at Pandoh Dam and Beas River viewpoint.",
+              "Hotel check-in and evening leisure.",
+              "Optional Mall Road visit for snacks & shopping.",
+              "Optional short walk to Old Manali cafés."
+            ]
+          }
+        ],
+        "overnight": "Manali"
+      },
+      {
+        "day": 2,
+        "title": "Manali Sightseeing",
+        "sections": [
+          {
+            "heading": "Sightseeing",
+            "items": [
+              "Breakfast at hotel.",
+              "Visit Hadimba Temple in cedar forest.",
+              "Relax at Vashisht Hot Springs.",
+              "Walk through Van Vihar Nature Park.",
+              "Explore Tibetan Market & Manali Bazaar.",
+              "Optional café crawl in Old Manali with live music."
+            ]
+          }
+        ],
+        "overnight": "Manali"
+      },
+      {
+        "day": 3,
+        "title": "Manali → Keylong",
+        "sections": [
+          {
+            "heading": "High-Altitude Drive",
+            "items": [
+              "Breakfast at hotel.",
+              "Cross Atal Tunnel (Asia’s longest highway tunnel).",
+              "Stop at Trilokinath Temple.",
+              "Scenic drive through Lahaul Valley.",
+              "Optional monastery visit & butter tea tasting."
+            ]
+          }
+        ],
+        "overnight": "Keylong"
+      },
+      {
+        "day": 4,
+        "title": "Keylong → Shinkula Pass → Jispa",
+        "sections": [
+          {
+            "heading": "Adventure & Nature",
+            "items": [
+              "Breakfast at hotel.",
+              "Drive to Shinkula Pass (16,580 ft).",
+              "Photo stops at valley viewpoints.",
+              "Arrival in Jispa near Bhaga River.",
+              "Campsite bonfire & storytelling night.",
+              "Optional short hike or riverside cycling."
+            ]
+          }
+        ],
+        "overnight": "Jispa (Camp)"
+      },
+      {
+        "day": 5,
+        "title": "Jispa → Baralacha Pass → Sissu",
+        "sections": [
+          {
+            "heading": "Mountain Landscapes",
+            "items": [
+              "Breakfast at camp.",
+              "Cross Baralacha La.",
+              "Stop at Deepak Tal (glacial lake).",
+              "Arrival in Sissu village.",
+              "Optional photography walk and interaction with local wool weavers."
+            ]
+          }
+        ],
+        "overnight": "Sissu"
+      },
+      {
+        "day": 6,
+        "title": "Return to Manali via Atal Tunnel",
+        "sections": [
+          {
+            "heading": "Adventure & Leisure",
+            "items": [
+              "Breakfast at hotel.",
+              "Adventure activities at Solang Valley (optional): ziplining, ATV, ropeway.",
+              "Stop at Naggar for handicraft shopping.",
+              "Evening leisure in Manali."
+            ]
+          }
+        ],
+        "overnight": "Manali"
+      },
+      {
+        "day": 7,
+        "title": "Departure – Manali → Chandigarh",
+        "sections": [
+          {
+            "heading": "Return Journey",
+            "items": [
+              "Breakfast at hotel.",
+              "Optional rafting stop in Kullu (morning departure).",
+              "Drive back to Chandigarh with dhaba lunch break.",
+              "Drop at Chandigarh Airport / Railway Station."
+            ]
+          }
+        ],
+        "overnight": "Departure"
+      }
+    ],
+    "foodGuide": [
+      {
+        "dish": "Tandoori Momos",
+        "place": "Chopsticks",
+        "location": "Manali",
+        "special": "Spicy, smoky twist on momos",
+        "image": "himachal/Momos"
+      },
+      {
+        "dish": "Thukpa",
+        "place": "Chopsticks",
+        "location": "Manali",
+        "special": "Warming Tibetan noodle soup",
+        "image": "himachal/Thukpa"
+      },
+      {
+        "dish": "Trout Fish",
+        "place": "Johnson’s Café",
+        "location": "Manali",
+        "special": "Fresh river trout, grilled",
+        "image": "himachal/Trout_Fish"
+      },
+      {
+        "dish": "Siddu",
+        "place": "Local Dhabas",
+        "location": "Manali",
+        "special": "Steamed bread with walnut stuffing",
+        "image": "himachal/Siddu"
+      },
+      {
+        "dish": "Buckwheat Pancakes",
+        "place": "Tashi Café",
+        "location": "Keylong",
+        "special": "Traditional Lahauli specialty",
+        "image": "himachal/Buckwheat_Pancakes"
+      },
+      {
+        "dish": "Butter Tea",
+        "place": "Monastery Café",
+        "location": "Keylong",
+        "special": "Salty Tibetan tea",
+        "image": "himachal/Butter_Tea"
+      },
+      {
+        "dish": "Mountain Maggi",
+        "place": "Campsite Cooks",
+        "location": "Jispa",
+        "special": "Comfort food by the bonfire",
+        "image": "himachal/Mountain_Maggie"
+      },
+      {
+        "dish": "Paratha & Kulhad Chai",
+        "place": "Highway Dhabas",
+        "location": "Bilaspur",
+        "special": "Classic road-trip combo",
+        "image": "himachal/Paratha_&_Kulhad_Chai"
+      }
+    ],
+    "nightlifeGuide": [
+      {
+        "city": "Manali",
+        "spot": "Old Manali Cafés",
+        "vibe": "Live music & riverside chill",
+        "notes": "Popular evening hangout"
+      },
+      {
+        "city": "Manali",
+        "spot": "Mall Road",
+        "vibe": "Street food & shopping buzz",
+        "notes": "Lively tourist atmosphere"
+      },
+      {
+        "city": "Keylong",
+        "spot": "Monastery Courtyard",
+        "vibe": "Cultural & peaceful",
+        "notes": "Butter tea & quiet evenings"
+      },
+      {
+        "city": "Jispa",
+        "spot": "Campsite Bonfire",
+        "vibe": "Storytelling under the stars",
+        "notes": "Signature offbeat experience"
+      },
+      {
+        "city": "Sissu",
+        "spot": "Waterfall Viewpoint",
+        "vibe": "Quiet & romantic",
+        "notes": "Stargazing & calm nights"
+      },
+      {
+        "city": "Solang Valley",
+        "spot": "Adventure Camps",
+        "vibe": "Lively & social",
+        "notes": "Traveler interactions"
+      },
+      {
+        "city": "Manali",
+        "spot": "Café 1947",
+        "vibe": "Cozy riverside dining",
+        "notes": "Live music evenings"
+      }
+    ],
+    "inclusions": [
+      "Accommodation: 2N Manali, 1N Keylong, 1N Jispa (camp), 1N Sissu, 1N Manali",
+      "Daily breakfast at hotels",
+      "Private vehicle (sedan/SUV) for entire tour",
+      "All sightseeing as per itinerary",
+      "Campsite bonfire & storytelling night",
+      "Driver allowance, fuel, tolls & parking",
+      "Photography viewpoint stops",
+      "Local café & shopping assistance"
+    ],
+    "exclusions": [
+      "Air/train tickets to/from Chandigarh",
+      "Adventure activities (zipline, ATV, rafting, ropeway)",
+      "Pony rides",
+      "Union/local cabs where mandatory",
+      "Entry fees to monuments or parks",
+      "Lunches, snacks & beverages",
+      "Travel insurance",
+      "Personal expenses",
+      "Anything not mentioned in inclusions"
+    ]
+  },
+  "kashmirWinterEscape": {
+    "id": "kashmir-winter-8d7n",
+    "destination": "kashmir",
+    "type": "domestic",
+    "path": "kashmir-winter-escape-8-days",
+    "seo": {
+      "metaTitle": "Kashmir Winter Tour Package | Snow Trip 8 Days",
+      "metaDescription": "Experience the magic of Kashmir in winter with this 8-day tour covering Srinagar, Gulmarg, Pahalgam, Sonmarg and Doodhpathri.",
+      "metaKeywords": [
+        "kashmir winter tour",
+        "kashmir snow trip",
+        "gulmarg winter package",
+        "kashmir honeymoon winter",
+        "kashmir winter holiday"
+      ],
+      "canonicalUrl": "/domesticpackages/kashmir-winter-escape-8-days/",
+      "ogTitle": "Kashmir Winter Escape – 8 Days Snow Paradise",
+      "ogDescription": "Snow-covered valleys, houseboat stay and winter adventures in this unforgettable Kashmir winter tour.",
+      "ogImage": "/images/domestic/kashmir.webp"
+    },
+    "title": "Kashmir Winter Escape",
+    "duration": "8 Days / 7 Nights",
+    "price": "On Request",
+    "image": "kashmir",
+    "link": "Kashmir Winter Escape – 7 Nights / 8 Days",
+    "destinationsCovered": [
+      "Srinagar",
+      "Sonmarg",
+      "Gulmarg",
+      "Pahalgam",
+      "Doodhpathri"
+    ],
+    "travelStyle": [
+      "Scenic",
+      "Adventure",
+      "Culture",
+      "Winter Wonderland"
+    ],
+    "idealFor": [
+      "Couples",
+      "Families",
+      "Friends"
+    ],
+    "bestSeason": "December to March",
+    "itinerary": [
+      {
+        "day": 1,
+        "title": "Arrival in Srinagar",
+        "sections": [
+          {
+            "heading": "Arrival & Sightseeing",
+            "items": [
+              "Pickup from Srinagar Airport.",
+              "Transfer to hotel, check-in & relax.",
+              "If arrival is early: sightseeing of Dal Lake, Mughal Gardens, Shankaracharya Temple, city tour & shopping areas."
+            ]
+          }
+        ],
+        "overnight": "Srinagar"
+      },
+      {
+        "day": 2,
+        "title": "Srinagar → Sonmarg",
+        "sections": [
+          {
+            "heading": "Excursion",
+            "items": [
+              "Breakfast at hotel.",
+              "Drive to Sonmarg (approx. 2.5 hrs).",
+              "Visit Thajiwas Glacier (pony ride optional).",
+              "Optional visit to Baltal & Zero Point (by union cab, extra cost)."
+            ]
+          }
+        ],
+        "overnight": "Sonmarg"
+      },
+      {
+        "day": 3,
+        "title": "Sonmarg → Srinagar",
+        "sections": [
+          {
+            "heading": "Leisure & Culture",
+            "items": [
+              "Breakfast at hotel.",
+              "Return drive to Srinagar.",
+              "Enjoy 1-hour Shikara ride on Dal Lake (included).",
+              "Evening leisure at Boulevard Road."
+            ]
+          }
+        ],
+        "overnight": "Srinagar"
+      },
+      {
+        "day": 4,
+        "title": "Srinagar → Gulmarg",
+        "sections": [
+          {
+            "heading": "Snow Adventure",
+            "items": [
+              "Breakfast at hotel.",
+              "Drive to Gulmarg (approx. 2 hrs).",
+              "Enjoy Gondola ride (tickets to be booked online).",
+              "Optional snow activities: skiing, sledging, ATV ride to Drung Waterfall."
+            ]
+          }
+        ],
+        "overnight": "Gulmarg"
+      },
+      {
+        "day": 5,
+        "title": "Gulmarg → Pahalgam",
+        "sections": [
+          {
+            "heading": "Valley Tour",
+            "items": [
+              "Breakfast at hotel.",
+              "Drive to Pahalgam (approx. 4 hrs).",
+              "Visit Aru Valley, Betaab Valley & Chandanwari (by union cab, extra cost)."
+            ]
+          }
+        ],
+        "overnight": "Pahalgam"
+      },
+      {
+        "day": 6,
+        "title": "Pahalgam → Srinagar",
+        "sections": [
+          {
+            "heading": "Nature & Leisure",
+            "items": [
+              "Breakfast at hotel.",
+              "Visit Baisaran Valley (pony ride optional).",
+              "Return to Srinagar."
+            ]
+          }
+        ],
+        "overnight": "Srinagar"
+      },
+      {
+        "day": 7,
+        "title": "Doodhpathri Day Trip & Houseboat Stay",
+        "sections": [
+          {
+            "heading": "Excursion & Stay",
+            "items": [
+              "Breakfast at hotel.",
+              "Excursion to Doodhpathri – lush meadows & Shaliganga River.",
+              "Evening transfer to traditional houseboat on Dal Lake."
+            ]
+          }
+        ],
+        "overnight": "Srinagar Houseboat"
+      },
+      {
+        "day": 8,
+        "title": "Departure",
+        "sections": [
+          {
+            "heading": "Return",
+            "items": [
+              "Breakfast at houseboat.",
+              "Transfer to Srinagar Airport for onward journey."
+            ]
+          }
+        ],
+        "overnight": "Departure"
+      }
+    ],
+    "foodGuide": [
+      {
+        "dish": "Rogan Josh",
+        "place": "Ahdoos Restaurant",
+        "location": "Srinagar",
+        "special": "Iconic Kashmiri lamb curry",
+        "image": "kashmir/Rogan_Josh"
+      },
+      {
+        "dish": "Gushtaba",
+        "place": "Mughal Darbar",
+        "location": "Srinagar",
+        "special": "Mutton balls in yogurt gravy (Wazwan dish)",
+        "image": "kashmir/Gushtaba"
+      },
+      {
+        "dish": "Kahwa",
+        "place": "Boulevard Road Cafés",
+        "location": "Srinagar",
+        "special": "Saffron-infused Kashmiri green tea",
+        "image": "kashmir/Kahwa"
+      },
+      {
+        "dish": "Trout Fish",
+        "place": "Local Dhabas",
+        "location": "Sonmarg",
+        "special": "Fresh Himalayan trout",
+        "image": "kashmir/Trout_Fish"
+      },
+      {
+        "dish": "Yakhni",
+        "place": "Hotel Restaurants",
+        "location": "Gulmarg",
+        "special": "Mild yogurt-based mutton curry",
+        "image": "kashmir/Yakhni"
+      },
+      {
+        "dish": "Noon Chai (Sheer Chai)",
+        "place": "Houseboat Breakfast",
+        "location": "Srinagar",
+        "special": "Traditional pink salted tea",
+        "image": "kashmir/Noon_Chai"
+      },
+      {
+        "dish": "Modur Pulao",
+        "place": "Traditional Kashmiri Homes",
+        "location": "Srinagar",
+        "special": "Sweet festive rice with dry fruits",
+        "image": "kashmir/Modur_Pulao"
+      },
+      {
+        "dish": "Phirni",
+        "place": "Local Restaurants",
+        "location": "Kashmir",
+        "special": "Saffron-flavored rice dessert",
+        "image": "kashmir/Phirni"
+      }
+    ],
+    "nightlifeGuide": [
+      {
+        "city": "Srinagar",
+        "spot": "Boulevard Road",
+        "vibe": "Relaxed evening strolls",
+        "notes": "Lake views, tea stalls & handicrafts"
+      },
+      {
+        "city": "Srinagar",
+        "spot": "Houseboat Stay",
+        "vibe": "Cozy & romantic",
+        "notes": "Starlit Dal Lake nights"
+      },
+      {
+        "city": "Srinagar",
+        "spot": "Local Markets",
+        "vibe": "Cultural & lively",
+        "notes": "Shopping for pashmina & souvenirs"
+      },
+      {
+        "city": "Sonmarg",
+        "spot": "Riverside Bonfire",
+        "vibe": "Quiet & rustic",
+        "notes": "Cold nights by the river"
+      },
+      {
+        "city": "Gulmarg",
+        "spot": "Hotel Lounges",
+        "vibe": "Warm & cozy",
+        "notes": "Kahwa, music & indoor comfort"
+      },
+      {
+        "city": "Gulmarg",
+        "spot": "Snow Activity Camps",
+        "vibe": "Social & energetic",
+        "notes": "Interaction with fellow travelers"
+      },
+      {
+        "city": "Pahalgam",
+        "spot": "Resort Courtyards",
+        "vibe": "Cultural & calm",
+        "notes": "Folk music evenings"
+      },
+      {
+        "city": "Doodhpathri",
+        "spot": "Meadows Stargazing",
+        "vibe": "Peaceful & romantic",
+        "notes": "Clear night skies"
+      }
+    ],
+    "inclusions": [
+      "Accommodation: 3N Srinagar, 1N Sonmarg, 1N Gulmarg, 1N Pahalgam, 1N Houseboat",
+      "Daily breakfast & dinner",
+      "Private sedan vehicle for transfers & sightseeing",
+      "Srinagar sightseeing (Dal Lake, Mughal Gardens, Shankaracharya Temple)",
+      "1-hour Shikara ride",
+      "Driver expenses: fuel, tolls, parking, night stays"
+    ],
+    "exclusions": [
+      "Air/train tickets",
+      "Gondola ride tickets",
+      "Union cabs at Sonmarg, Gulmarg & Pahalgam",
+      "Pony rides & snow activities",
+      "Entry fees to gardens & monuments",
+      "Lunches",
+      "Travel insurance",
+      "Guide charges",
+      "Personal expenses",
+      "Anything not mentioned in inclusions"
+    ]
+  },
+  "keralaTrip6D5N": {
+    "id": "kerala-6d5n",
+    "destination": "kerala",
+    "type": "domestic",
+    "path": "kerala-trip-6-days",
+    "seo": {
+      "metaTitle": "Kerala Tour Package | Munnar Thekkady Alleppey 6 Days",
+      "metaDescription": "Book a 6-day Kerala tour package covering Cochin, Munnar, Thekkady and Alleppey with scenic hills, wildlife and backwater experiences.",
+      "metaKeywords": [
+        "kerala tour package",
+        "kerala trip 6 days",
+        "munnar thekkady alleppey tour",
+        "kerala backwaters package",
+        "kerala honeymoon tour",
+        "kerala holiday itinerary"
+      ],
+      "canonicalUrl": "/domesticpackages/kerala-trip-6-days/",
+      "ogTitle": "Kerala Trip – 6 Days Scenic Backwaters & Hills",
+      "ogDescription": "Experience the best of Kerala with hill stations, wildlife and tranquil backwaters in this 6-day tour.",
+      "ogImage": "/images/domestic/kerala.webp"
+    },
+    "title": "Kerala Trip",
+    "duration": "6 Days / 5 Nights",
+    "price": "On Request",
+    "image": "kerala",
+    "link": "Kerala Trip - Explore Top Destinations & Plan Your Perfect Vacation",
+    "destinationsCovered": [
+      "Cochin",
+      "Munnar",
+      "Thekkady",
+      "Alleppey"
+    ],
+    "travelStyle": [
+      "Scenic",
+      "Cultural",
+      "Nature",
+      "Culinary"
+    ],
+    "idealFor": [
+      "Couples",
+      "Families",
+      "Wellness Seekers"
+    ],
+    "bestSeason": "September to March",
+    "itinerary": [
+      {
+        "day": 1,
+        "title": "Arrival in Cochin & Athirapally Waterfalls",
+        "sections": [
+          {
+            "heading": "Activities",
+            "items": [
+              "Meet & greet at Cochin Airport / Railway Station.",
+              "Transfer to hotel – Villa Romantica (Deluxe Room).",
+              "Visit Athirapally & Vazhachal Waterfalls.",
+              "Evening leisure time at resort."
+            ]
+          }
+        ],
+        "overnight": "Cochin"
+      },
+      {
+        "day": 2,
+        "title": "Cochin → Munnar Scenic Drive",
+        "sections": [
+          {
+            "heading": "Journey & Leisure",
+            "items": [
+              "Breakfast at hotel.",
+              "Drive to Munnar (approx. 5 hrs).",
+              "Optional adventure activities en route: Ecstasy Ride, Zipline, Bali Swing.",
+              "Check-in at Munnar Queen – Executive Room."
+            ]
+          }
+        ],
+        "overnight": "Munnar"
+      },
+      {
+        "day": 3,
+        "title": "Munnar Sightseeing",
+        "sections": [
+          {
+            "heading": "Sightseeing",
+            "items": [
+              "Breakfast at hotel.",
+              "Visit Mattupetty Dam, Eco Point, Tea Museum, Pothamedu Viewpoint.",
+              "Optional boating at Mattupetty Lake."
+            ]
+          }
+        ],
+        "overnight": "Munnar"
+      },
+      {
+        "day": 4,
+        "title": "Munnar → Thekkady",
+        "sections": [
+          {
+            "heading": "Nature & Wildlife",
+            "items": [
+              "Breakfast at hotel.",
+              "Drive to Thekkady (approx. 4 hrs).",
+              "Check-in at Coffee Routes – Coffee Beans Deluxe A/c.",
+              "Optional activities: Periyar Lake Boat Cruise, Elephant Ride, Martial Arts Show."
+            ]
+          }
+        ],
+        "overnight": "Thekkady"
+      },
+      {
+        "day": 5,
+        "title": "Thekkady → Alleppey",
+        "sections": [
+          {
+            "heading": "Backwaters",
+            "items": [
+              "Breakfast at hotel.",
+              "Drive to Alleppey (approx. 4 hrs).",
+              "Check-in at Paloma Backwater Resort – Deluxe A/c.",
+              "Optional houseboat day cruise or sunset canoe ride."
+            ]
+          }
+        ],
+        "overnight": "Alleppey"
+      },
+      {
+        "day": 6,
+        "title": "Departure from Cochin",
+        "sections": [
+          {
+            "heading": "Return",
+            "items": [
+              "Breakfast at resort.",
+              "Transfer to Cochin Airport / Railway Station.",
+              "Tour ends with memorable Kerala experiences."
+            ]
+          }
+        ],
+        "overnight": "Departure"
+      }
+    ],
+    "foodGuide": [
+      {
+        "dish": "Kerala Fish Curry",
+        "place": "Ginger House Restaurant",
+        "location": "Cochin",
+        "special": "Tangy coconut-based coastal curry",
+        "image": "kerala/Kerala_Fish_Molee"
+      },
+      {
+        "dish": "Sadya (Traditional Veg Thali)",
+        "place": "Saravana Bhavan",
+        "location": "Munnar",
+        "special": "Banana leaf feast with payasam",
+        "image": "kerala/Kerala_Sadya"
+      },
+      {
+        "dish": "Tea-infused Dishes",
+        "place": "Tea Tales Café",
+        "location": "Munnar",
+        "special": "Fusion dishes using local tea flavors",
+        "image": "kerala/Palada_Payasam"
+      },
+      {
+        "dish": "Pepper Chicken",
+        "place": "Spice Garden Restaurant",
+        "location": "Thekkady",
+        "special": "Spice-rich Kerala specialty",
+        "image": "kerala/Nadan_Beef_Fry"
+      },
+      {
+        "dish": "Karimeen Pollichathu",
+        "place": "Harbour Restaurant",
+        "location": "Alleppey",
+        "special": "Pearl spot fish grilled in banana leaf",
+        "image": "kerala/Kerala_Fish_Molee"
+      },
+      {
+        "dish": "Appam with Stew",
+        "place": "Local Homestays",
+        "location": "Kerala",
+        "special": "Soft rice pancakes with coconut stew",
+        "image": "kerala/Appam_with_Stew"
+      },
+      {
+        "dish": "Puttu with Kadala Curry",
+        "place": "Traditional Breakfast Joints",
+        "location": "Cochin / Munnar",
+        "special": "Classic Kerala breakfast",
+        "image": "kerala/Puttu_with_Kadala_Curry"
+      }
+    ],
+    "nightlifeGuide": [
+      {
+        "city": "Cochin",
+        "spot": "Fort Kochi Cafés & Seaside Promenade",
+        "vibe": "Colonial charm & relaxed evenings",
+        "notes": "Art cafés and ocean breeze"
+      },
+      {
+        "city": "Cochin",
+        "spot": "Kathakali Dance Show",
+        "vibe": "Cultural & traditional",
+        "notes": "Costumes, expressions & storytelling"
+      },
+      {
+        "city": "Munnar",
+        "spot": "Tea Estate Walks",
+        "vibe": "Quiet & misty",
+        "notes": "Evening walks through plantations"
+      },
+      {
+        "city": "Munnar",
+        "spot": "Local Market Stroll",
+        "vibe": "Lively & local",
+        "notes": "Spices, souvenirs & snacks"
+      },
+      {
+        "city": "Thekkady",
+        "spot": "Spice Plantation Night Tour",
+        "vibe": "Aromatic & guided",
+        "notes": "Cooking demos & spice walks"
+      },
+      {
+        "city": "Thekkady",
+        "spot": "Kalaripayattu Show",
+        "vibe": "Energetic & traditional",
+        "notes": "Kerala martial arts performance"
+      },
+      {
+        "city": "Alleppey",
+        "spot": "Houseboat Stay",
+        "vibe": "Romantic & serene",
+        "notes": "Starlit backwater experience"
+      },
+      {
+        "city": "Alleppey",
+        "spot": "Sunset Canoe Ride",
+        "vibe": "Peaceful & scenic",
+        "notes": "Golden hour on tranquil canals"
+      }
+    ],
+    "inclusions": [
+      "Accommodation in listed hotels",
+      "Daily breakfast",
+      "Private A/C Innova car for transfers & sightseeing",
+      "Arrival assistance",
+      "English-speaking driver",
+      "Parking, tolls & driver expenses",
+      "All applicable taxes"
+    ],
+    "exclusions": [
+      "Flights or train tickets",
+      "Meals not mentioned",
+      "Optional activities (boating, shows, houseboat)",
+      "Personal expenses (tips, laundry, shopping)",
+      "Travel insurance"
+    ]
+  },
+  "lakshadweepEscape6D5N": {
+    "id": "lakshadweep-6d5n",
+    "destination": "lakshadweep",
+    "type": "domestic",
+    "path": "lakshadweep-escape-agatti-kadmat",
+    "seo": {
+      "metaTitle": "Lakshadweep Tour Package | Agatti & Kadmat Islands 6 Days",
+      "metaDescription": "Book Lakshadweep tour package for 6 days covering Agatti, Kadmat, Bangaram and Thinnakara islands with snorkeling, island hopping and beach stays.",
+      "metaKeywords": [
+        "lakshadweep tour package",
+        "agatti kadmat tour",
+        "lakshadweep island hopping",
+        "lakshadweep honeymoon package",
+        "lakshadweep water sports trip",
+        "lakshadweep beach holiday"
+      ],
+      "canonicalUrl": "/domesticpackages/lakshadweep-escape-agatti-kadmat/",
+      "ogTitle": "Lakshadweep Escape – Agatti & Kadmat Islands",
+      "ogDescription": "Pristine lagoons, coral reefs and island hopping adventures in this 6-day Lakshadweep escape.",
+      "ogImage": "/images/domestic/lakshadweep.webp"
+    },
+    "title": "Lakshadweep Escape – Agatti & Kadmat Islands",
+    "duration": "6 Days / 5 Nights",
+    "price": "On Request",
+    "image": "lakshadweep",
+    "link": "5 Days Agatti and Kadmat Islands Package | SetMyTrip",
+    "destinationsCovered": [
+      "Agatti Island",
+      "Bangaram Island",
+      "Thinnakara Island",
+      "Kalpitti Island",
+      "Kadmat Island",
+      "Amini Island"
+    ],
+    "travelStyle": [
+      "Beach",
+      "Nature",
+      "Water Sports",
+      "Island Hopping"
+    ],
+    "idealFor": [
+      "Couples",
+      "Friends",
+      "Beach Lovers"
+    ],
+    "bestSeason": "October to March",
+    "itinerary": [
+      {
+        "day": 1,
+        "title": "Arrival at Agatti Island",
+        "sections": [
+          {
+            "heading": "Arrival & Leisure",
+            "items": [
+              "Arrival at Agatti Airport.",
+              "Transfer to beachside resort.",
+              "Welcome drink & orientation.",
+              "Evening walk along Agatti Lagoon.",
+              "Dinner suggestion: Fresh catch grilled at resort beach shack."
+            ]
+          }
+        ],
+        "overnight": "Agatti"
+      },
+      {
+        "day": 2,
+        "title": "Bangaram & Thinnakara Island Excursion",
+        "sections": [
+          {
+            "heading": "Island Hopping",
+            "items": [
+              "Breakfast at resort.",
+              "Boat trip to Bangaram Island – turquoise waters & coral reefs.",
+              "Continue to Thinnakara Island – sandbanks & snorkeling.",
+              "Free time for swimming, kayaking & sunbathing.",
+              "Return to Agatti by evening.",
+              "Dinner suggestion: Coconut curry with tuna or reef fish."
+            ]
+          }
+        ],
+        "overnight": "Agatti"
+      },
+      {
+        "day": 3,
+        "title": "Kalpitti Island & Glass Bottom Boat Ride",
+        "sections": [
+          {
+            "heading": "Marine Experience",
+            "items": [
+              "Breakfast at resort.",
+              "Boat trip to Kalpitti Island – known for turtle sightings.",
+              "Glass bottom boat ride to view coral gardens.",
+              "Optional lagoon kayaking or paddleboarding.",
+              "Evening beach barbecue dinner under the stars."
+            ]
+          }
+        ],
+        "overnight": "Agatti"
+      },
+      {
+        "day": 4,
+        "title": "Transfer to Kadmat Island & Beach Hopping",
+        "sections": [
+          {
+            "heading": "Island Transfer",
+            "items": [
+              "Breakfast at resort.",
+              "Speedboat transfer to Kadmat Island.",
+              "Check-in at beachfront resort.",
+              "Explore South Tip, Sunset Point & Lagoon Bay.",
+              "Optional snorkeling or reef walk.",
+              "Dinner suggestion: Kadmat-style fish biryani."
+            ]
+          }
+        ],
+        "overnight": "Kadmat"
+      },
+      {
+        "day": 5,
+        "title": "Amini Island Day Trip & Water Sports",
+        "sections": [
+          {
+            "heading": "Culture & Adventure",
+            "items": [
+              "Breakfast at resort.",
+              "Boat trip to Amini Island.",
+              "Explore local village, handicrafts & coconut groves.",
+              "Optional scuba diving or deep-sea fishing.",
+              "Dinner suggestion: Grilled lobster or vegetarian thali."
+            ]
+          }
+        ],
+        "overnight": "Kadmat"
+      },
+      {
+        "day": 6,
+        "title": "Departure from Agatti",
+        "sections": [
+          {
+            "heading": "Return",
+            "items": [
+              "Breakfast at resort.",
+              "Speedboat transfer to Agatti Airport.",
+              "Departure with island memories."
+            ]
+          }
+        ],
+        "overnight": "Departure"
+      }
+    ],
+    "foodGuide": [
+      {
+        "dish": "Fresh Catch Grilled Fish",
+        "place": "Resort Beach Shack",
+        "location": "Agatti",
+        "special": "Smoky grilled seafood by the lagoon",
+        "image": "lakshadweep/Seafood_Platter"
+      },
+      {
+        "dish": "Coconut Curry with Tuna / Reef Fish",
+        "place": "Resort Dining",
+        "location": "Agatti",
+        "special": "Signature coconut milk–based island curry",
+        "image": "lakshadweep/Tuna_Curry"
+      },
+      {
+        "dish": "Beach Barbecue Dinner",
+        "place": "Under the Stars",
+        "location": "Agatti",
+        "special": "Fresh seafood & veggies grilled on sand",
+        "image": "lakshadweep/Seafood_Platter"
+      },
+      {
+        "dish": "Fish Biryani (Kadmat Style)",
+        "place": "Beachfront Resort",
+        "location": "Kadmat",
+        "special": "Spiced rice with local fish",
+        "image": "lakshadweep/Fish_Biryani"
+      },
+      {
+        "dish": "Grilled Lobster",
+        "place": "Resort Restaurant",
+        "location": "Kadmat",
+        "special": "Premium freshly caught seafood",
+        "image": "lakshadweep/Seafood_Platter"
+      },
+      {
+        "dish": "Vegetarian Thali",
+        "place": "Kadmat Resort",
+        "location": "Kadmat",
+        "special": "Balanced non-seafood meal option",
+        "image": "lakshadweep/Breadfruit_Curry"
+      },
+      {
+        "dish": "Coconut-based Sweets",
+        "place": "Local Village Stalls",
+        "location": "Amini",
+        "special": "Traditional coconut & jaggery desserts",
+        "image": "lakshadweep/Coconut_Laddu"
+      },
+      {
+        "dish": "Island Banana Chips",
+        "place": "Local Markets",
+        "location": "All Islands",
+        "special": "Crispy sun-dried snack",
+        "image": "lakshadweep/Banana_Chips"
+      }
+    ],
+    "nightlifeGuide": [
+      {
+        "city": "Agatti",
+        "spot": "Lagoon Evening Walk",
+        "vibe": "Peaceful sunset strolls",
+        "notes": "Golden skies over calm waters"
+      },
+      {
+        "city": "Agatti",
+        "spot": "Beach Shack Dining",
+        "vibe": "Casual & rustic",
+        "notes": "Seaside dinners with waves"
+      },
+      {
+        "city": "Agatti",
+        "spot": "Barbecue Night",
+        "vibe": "Social & lively",
+        "notes": "Music, food & stargazing"
+      },
+      {
+        "city": "Bangaram",
+        "spot": "Beach Picnic",
+        "vibe": "Relaxed & intimate",
+        "notes": "Untouched island ambience"
+      },
+      {
+        "city": "Thinnakara",
+        "spot": "Sandbank Stargazing",
+        "vibe": "Romantic & serene",
+        "notes": "Clear skies & silence"
+      },
+      {
+        "city": "Kadmat",
+        "spot": "Sunset Point",
+        "vibe": "Scenic & calm",
+        "notes": "Golden horizon views"
+      },
+      {
+        "city": "Kadmat",
+        "spot": "Resort Lounge",
+        "vibe": "Cozy conversations",
+        "notes": "Drinks & ocean breeze"
+      },
+      {
+        "city": "Amini",
+        "spot": "Cultural Village Evening",
+        "vibe": "Authentic & local",
+        "notes": "Music, crafts & island life"
+      }
+    ],
+    "inclusions": [
+      "3 nights stay at Agatti Island",
+      "2 nights stay at Kadmat Island",
+      "Speedboat transfers between islands",
+      "Airport, jetty & hotel transfers",
+      "Boat trips to Bangaram, Thinnakara, Kalpitti & Amini Islands",
+      "Free snorkeling, kayaking & glass bottom boat ride",
+      "Beach barbecue dinner",
+      "All permits & sponsorship fees",
+      "Daily breakfast"
+    ],
+    "exclusions": [
+      "Flights to/from Agatti",
+      "Lunches unless specified",
+      "Scuba diving & deep-sea fishing",
+      "Personal expenses, tips & insurance",
+      "Anything not mentioned in inclusions"
+    ]
+  },
+  "splendidLadakhHimalayanEscape": {
+    "id": "ladakh-5d4n",
+    "destination": "ladakh",
+    "type": "domestic",
+    "path": "splendid-ladakh-himalayan-escape",
+    "seo": {
+      "metaTitle": "Ladakh Tour Package | Leh Pangong Khardung La 5 Days",
+      "metaDescription": "Book a 5-day Ladakh tour package covering Leh, Sham Valley, Khardung La and Pangong Lake with scenic Himalayan landscapes.",
+      "metaKeywords": [
+        "ladakh tour package",
+        "leh pangong tour",
+        "ladakh 5 days itinerary",
+        "khardung la pangong lake tour",
+        "ladakh honeymoon trip",
+        "ladakh scenic tour"
+      ],
+      "canonicalUrl": "/domesticpackages/splendid-ladakh-himalayan-escape/",
+      "ogTitle": "Splendid Ladakh – Himalayan Escape | 5 Days",
+      "ogDescription": "High-altitude passes, monasteries and iconic Pangong Lake in this scenic Ladakh Himalayan escape.",
+      "ogImage": "/images/domestic/ladakh_splendid.webp"
+    },
+    "title": "Splendid Ladakh – Himalayan Escape",
+    "duration": "5 Days / 4 Nights",
+    "price": "On Request",
+    "image": "ladakh_splendid",
+    "link": "Splendid Ladakh Tour Package by Thomas Cook",
+    "destinationsCovered": [
+      "Leh",
+      "Sham Valley",
+      "Khardung La",
+      "Pangong Lake"
+    ],
+    "travelStyle": [
+      "Scenic",
+      "Cultural",
+      "Light Adventure"
+    ],
+    "idealFor": [
+      "Couples",
+      "Friends",
+      "Nature Lovers"
+    ],
+    "bestSeason": "May to September",
+    "itinerary": [
+      {
+        "day": 1,
+        "title": "Arrival in Leh",
+        "sections": [
+          {
+            "heading": "Arrival & Acclimatization",
+            "items": [
+              "Airport pickup and transfer to hotel.",
+              "Rest and acclimatization to high altitude.",
+              "Visit Shanti Stupa or Leh Market (subject to health).",
+              "Dinner at hotel."
+            ]
+          }
+        ],
+        "overnight": "Leh"
+      },
+      {
+        "day": 2,
+        "title": "Sham Valley Excursion",
+        "sections": [
+          {
+            "heading": "Sightseeing",
+            "items": [
+              "Breakfast at hotel.",
+              "Visit Magnetic Hill – optical illusion site.",
+              "Gurudwara Pathar Sahib – spiritual stop.",
+              "Sangam Point – confluence of Indus & Zanskar rivers.",
+              "Hall of Fame – Ladakhi military heritage museum.",
+              "Dinner at hotel."
+            ]
+          }
+        ],
+        "overnight": "Leh"
+      },
+      {
+        "day": 3,
+        "title": "Khardung La Pass",
+        "sections": [
+          {
+            "heading": "High-Altitude Drive",
+            "items": [
+              "Breakfast at hotel.",
+              "Drive to Khardung La – one of the world’s highest motorable roads.",
+              "Panoramic views and photography stops.",
+              "Optional Maggi stop at a roadside café.",
+              "Return to Leh by evening.",
+              "Dinner at hotel."
+            ]
+          }
+        ],
+        "overnight": "Leh"
+      },
+      {
+        "day": 4,
+        "title": "Pangong Lake Day Trip",
+        "sections": [
+          {
+            "heading": "Scenic Excursion",
+            "items": [
+              "Breakfast at hotel.",
+              "Scenic drive to Pangong Lake via Chang La Pass.",
+              "Visit Pangong Tso – iconic blue lake featured in Bollywood films.",
+              "Optional lakeside picnic or photography.",
+              "Return to Leh by evening.",
+              "Dinner at hotel."
+            ]
+          }
+        ],
+        "overnight": "Leh"
+      },
+      {
+        "day": 5,
+        "title": "Departure",
+        "sections": [
+          {
+            "heading": "Return",
+            "items": [
+              "Breakfast at hotel.",
+              "Transfer to Leh Airport.",
+              "Fly back with Himalayan memories."
+            ]
+          }
+        ],
+        "overnight": "Departure"
+      }
+    ],
+    "foodGuide": [
+      {
+        "dish": "Thukpa",
+        "place": "Tibetan Kitchen",
+        "location": "Leh Market",
+        "special": "Hot noodle soup ideal for cold evenings",
+        "image": "ladakh/Thukpa"
+      },
+      {
+        "dish": "Momos",
+        "place": "Gesmo Restaurant",
+        "location": "Leh",
+        "special": "Steamed dumplings with spicy chutney",
+        "image": "ladakh/Momos"
+      },
+      {
+        "dish": "Skyu",
+        "place": "Local Homestays",
+        "location": "Leh / Sham Valley",
+        "special": "Traditional Ladakhi wheat pasta stew",
+        "image": "ladakh/Skyu"
+      },
+      {
+        "dish": "Butter Tea (Po Cha)",
+        "place": "Monastery Cafés",
+        "location": "Sham Valley",
+        "special": "Salty tea with yak butter, warming at altitude",
+        "image": "ladakh/Butter_Tea"
+      },
+      {
+        "dish": "Chhurpi (Yak Cheese)",
+        "place": "Village Dhabas",
+        "location": "Sham Valley",
+        "special": "Hardened yak cheese, rustic & hearty",
+        "image": "ladakh/Chhurpi_(Yak_Cheese)"
+      },
+      {
+        "dish": "Maggi at Altitude",
+        "place": "Roadside Café",
+        "location": "Khardung La",
+        "special": "Iconic comfort food at extreme altitude",
+        "image": "ladakh/Momos"
+      },
+      {
+        "dish": "Yak Cheese Pizza",
+        "place": "Bon Appetit Café",
+        "location": "Leh",
+        "special": "Fusion dish using local yak cheese",
+        "image": "ladakh/Khambir"
+      },
+      {
+        "dish": "Apricot Specialties",
+        "place": "Local Orchards",
+        "location": "Leh / Sham Valley",
+        "special": "Jam & juice from Ladakh’s famous apricots",
+        "image": "ladakh/Apricot_Specialty"
+      },
+      {
+        "dish": "Ladakhi Pulao",
+        "place": "Local Restaurants",
+        "location": "Leh",
+        "special": "Mildly spiced rice with dry fruits",
+        "image": "ladakh/Ladakhi_Pulao"
+      },
+      {
+        "dish": "Tigmo",
+        "place": "Traditional Homes",
+        "location": "Leh",
+        "special": "Steamed bread served with dal or vegetables",
+        "image": "ladakh/Tigmo"
+      }
+    ],
+    "nightlifeGuide": [
+      {
+        "city": "Leh",
+        "spot": "Leh Market Evening Walk",
+        "vibe": "Buzzing bazaars & cafés",
+        "notes": "Handicrafts, street food & local life"
+      },
+      {
+        "city": "Leh",
+        "spot": "Gesmo / Bon Appetit Café",
+        "vibe": "Cozy dining with live music",
+        "notes": "Popular evening hangouts"
+      },
+      {
+        "city": "Leh",
+        "spot": "Shanti Stupa Sunset",
+        "vibe": "Spiritual & panoramic",
+        "notes": "Golden hour views over Leh"
+      },
+      {
+        "city": "Sham Valley",
+        "spot": "Monastery Courtyards",
+        "vibe": "Cultural & peaceful",
+        "notes": "Chants, butter lamps & tea"
+      },
+      {
+        "city": "Khardung La",
+        "spot": "Roadside Café",
+        "vibe": "Unique & adventurous",
+        "notes": "High-altitude Maggi stop"
+      },
+      {
+        "city": "Pangong Lake",
+        "spot": "Lakeside Stargazing",
+        "vibe": "Romantic & serene",
+        "notes": "Clear skies and reflections"
+      },
+      {
+        "city": "Pangong Lake",
+        "spot": "Camp Bonfire",
+        "vibe": "Social & warm",
+        "notes": "Evenings with fellow travelers"
+      },
+      {
+        "city": "Leh",
+        "spot": "Local Bakeries",
+        "vibe": "Casual & local",
+        "notes": "Evening kulchas & tea"
+      },
+      {
+        "city": "Leh",
+        "spot": "Eco Cafés",
+        "vibe": "Quiet & mindful",
+        "notes": "Herbal teas & apricot desserts"
+      }
+    ],
+    "inclusions": [
+      "Accommodation in Leh (4 nights)",
+      "Daily breakfast and dinner",
+      "Airport transfers",
+      "Private vehicle for sightseeing",
+      "Inner line permits",
+      "Local assistance and coordination"
+    ],
+    "exclusions": [
+      "Airfare",
+      "Monument entry fees",
+      "Lunches",
+      "Personal expenses",
+      "Adventure activities (ATV, rafting, etc.)",
+      "Travel insurance",
+      "Anything not mentioned in inclusions"
+    ]
+  },
+  "meghalayaMistyValleysJourney": {
+    "id": "meghalaya-5d4n",
+    "destination": "meghalaya",
+    "type": "domestic",
+    "path": "meghalaya-misty-valleys-journey",
+    "seo": {
+      "metaTitle": "Meghalaya Tour Package | Shillong Cherrapunjee Dawki 5 Days",
+      "metaDescription": "Book Meghalaya tour package for 5 days covering Shillong, Cherrapunjee, Mawlynnong and Dawki with waterfalls, misty valleys and crystal-clear rivers.",
+      "metaKeywords": [
+        "meghalaya tour package",
+        "shillong cherrapunjee tour",
+        "dawki umngot river trip",
+        "meghalaya nature tour",
+        "meghalaya honeymoon package",
+        "north east india tour"
+      ],
+      "canonicalUrl": "/domesticpackages/meghalaya-misty-valleys-journey/",
+      "ogTitle": "Meghalaya – The Misty Valleys Journey | 5 Days",
+      "ogDescription": "Explore misty valleys, waterfalls and living root bridges in this scenic 5-day Meghalaya journey.",
+      "ogImage": "/images/domestic/meghalaya.webp"
+    },
+    "title": "Meghalaya — The Misty Valleys Journey",
+    "duration": "5 Days / 4 Nights",
+    "price": "On Request",
+    "image": "meghalaya",
+    "link": "Meghalaya – The Misty Valleys Journey",
+    "destinationsCovered": [
+      "Guwahati",
+      "Shillong",
+      "Cherrapunjee",
+      "Mawlynnong",
+      "Dawki"
+    ],
+    "travelStyle": [
+      "Scenic",
+      "Nature",
+      "Culture",
+      "Leisure"
+    ],
+    "idealFor": [
+      "Couples",
+      "Friends",
+      "Nature Lovers"
+    ],
+    "bestSeason": "October to April",
+    "itinerary": [
+      {
+        "day": 1,
+        "title": "Arrival Guwahati → Shillong",
+        "sections": [
+          {
+            "heading": "Journey & Leisure",
+            "items": [
+              "Arrival at Guwahati Airport.",
+              "Meet driver and transfer to Shillong (2.5–3 hrs).",
+              "Umiam Lake photo stop (time permitting).",
+              "Hotel check-in at Shillong.",
+              "Dinner and rest."
+            ]
+          }
+        ],
+        "overnight": "Shillong"
+      },
+      {
+        "day": 2,
+        "title": "Shillong Local Sightseeing & Laitlum Canyon",
+        "sections": [
+          {
+            "heading": "Sightseeing",
+            "items": [
+              "Breakfast at hotel.",
+              "Ward’s Lake leisurely walk.",
+              "Don Bosco Museum cultural immersion.",
+              "Coffee break at rooftop café.",
+              "Lunch at Café Shillong / ML05.",
+              "Cathedral of Mary Help of Christians.",
+              "Drive to Laitlum Canyon for sunset views.",
+              "Return to Shillong.",
+              "Shopping and dinner at Police Bazaar."
+            ]
+          }
+        ],
+        "overnight": "Shillong"
+      },
+      {
+        "day": 3,
+        "title": "Shillong → Cherrapunjee",
+        "sections": [
+          {
+            "heading": "Waterfalls & Caves",
+            "items": [
+              "Breakfast and check-out.",
+              "Drive to Cherrapunjee (1.5–2 hrs).",
+              "Elephant Falls visit.",
+              "Mawkdok Valley viewpoint photo stop.",
+              "Lunch in Sohra.",
+              "Visit Nohkalikai Falls.",
+              "Explore Mawsmai Caves.",
+              "Seven Sisters Falls viewpoint & Eco Park.",
+              "Hotel check-in at Cherrapunjee.",
+              "Dinner overlooking misty valleys."
+            ]
+          }
+        ],
+        "overnight": "Cherrapunjee"
+      },
+      {
+        "day": 4,
+        "title": "Cherrapunjee → Mawlynnong → Dawki",
+        "sections": [
+          {
+            "heading": "Village & River Experience",
+            "items": [
+              "Breakfast at hotel.",
+              "Drive to Mawlynnong village.",
+              "Explore Bamboo Skywalk, Balancing Rock, Living Root Bridge & village walk.",
+              "Drive to Dawki.",
+              "Lunch at riverside homestay café.",
+              "Umngot River boat ride (crystal-clear waters).",
+              "Shnongpdeng hanging bridge walk & riverside photography.",
+              "Dinner at hotel."
+            ]
+          }
+        ],
+        "overnight": "Dawki"
+      },
+      {
+        "day": 5,
+        "title": "Dawki → Guwahati Departure",
+        "sections": [
+          {
+            "heading": "Return Journey",
+            "items": [
+              "Breakfast at hotel.",
+              "Check-out and drive back to Guwahati (4–4.5 hrs).",
+              "Tea break en route at Pynursla / Mawryngkneng.",
+              "Lunch at Nongpoh highway.",
+              "Brahmaputra riverside viewpoint & Assam tea shopping.",
+              "Transfer to Guwahati Airport for onward flight."
+            ]
+          }
+        ],
+        "overnight": "Departure"
+      }
+    ],
+    "foodGuide": [
+      {
+        "dish": "Jadoh",
+        "place": "Police Bazaar Stalls",
+        "location": "Shillong",
+        "special": "Khasi rice dish cooked with pork",
+        "image": "meghalaya/Jadoh"
+      },
+      {
+        "dish": "Tungrymbai",
+        "place": "Local Khasi Kitchens",
+        "location": "Shillong",
+        "special": "Fermented soybean curry with mustard oil",
+        "image": "meghalaya/Tungrymbai"
+      },
+      {
+        "dish": "Smoked Pork with Bamboo Shoot",
+        "place": "Café Shillong / ML05",
+        "location": "Shillong",
+        "special": "Signature Khasi delicacy",
+        "image": "meghalaya/Smoked_Pork_with_Bamboo_Shoot"
+      },
+      {
+        "dish": "Black Sesame Chicken",
+        "place": "Rooftop Cafés",
+        "location": "Shillong",
+        "special": "Nutty fusion preparation",
+        "image": "meghalaya/Nakham_Bitchi"
+      },
+      {
+        "dish": "Cherrapunjee Thali",
+        "place": "Local Dhabas",
+        "location": "Cherrapunjee",
+        "special": "Homely platter after waterfall tours",
+        "image": "meghalaya/Pumaloi"
+      },
+      {
+        "dish": "Putharo with Dohneiiong",
+        "place": "Village Eateries",
+        "location": "Mawlynnong",
+        "special": "Rice pancakes with pork curry",
+        "image": "meghalaya/Putharo"
+      },
+      {
+        "dish": "Fresh River Fish Curry",
+        "place": "Riverside Homestay Café",
+        "location": "Dawki",
+        "special": "Mustard-based fish curry",
+        "image": "meghalaya/Dohneiiong"
+      },
+      {
+        "dish": "Assam Tea & Snacks",
+        "place": "Highway Tea Stalls",
+        "location": "En route Guwahati",
+        "special": "Strong Assam chai with pakoras",
+        "image": "meghalaya/Minil_Songa"
+      }
+    ],
+    "nightlifeGuide": [
+      {
+        "city": "Shillong",
+        "spot": "Police Bazaar",
+        "vibe": "Bustling & lively",
+        "notes": "Street food, shopping & local life"
+      },
+      {
+        "city": "Shillong",
+        "spot": "Rooftop Cafés (ML05, Café Shillong)",
+        "vibe": "Cozy & musical",
+        "notes": "Live music & coffee evenings"
+      },
+      {
+        "city": "Cherrapunjee",
+        "spot": "Hotel Terrace Dining",
+        "vibe": "Romantic & misty",
+        "notes": "Candlelight dinner with valley views"
+      },
+      {
+        "city": "Cherrapunjee",
+        "spot": "Eco Park Evening Walk",
+        "vibe": "Quiet & scenic",
+        "notes": "Waterfall backdrops at dusk"
+      },
+      {
+        "city": "Mawlynnong",
+        "spot": "Village Skywalk",
+        "vibe": "Peaceful sunset",
+        "notes": "Bamboo bridges & village views"
+      },
+      {
+        "city": "Dawki",
+        "spot": "Riverside Bonfire",
+        "vibe": "Relaxed & warm",
+        "notes": "Bonfire by Umngot River"
+      },
+      {
+        "city": "Dawki",
+        "spot": "Shnongpdeng Hanging Bridge",
+        "vibe": "Calm twilight walk",
+        "notes": "River reflections at dusk"
+      },
+      {
+        "city": "Guwahati",
+        "spot": "Brahmaputra Riverside",
+        "vibe": "Scenic & relaxed",
+        "notes": "Tea breaks & sunset viewpoints"
+      }
+    ],
+    "inclusions": [
+      "Accommodation with breakfast",
+      "Private vehicle with driver",
+      "All transfers & sightseeing as per itinerary",
+      "Umngot River boat ride",
+      "Parking, tolls & driver allowance"
+    ],
+    "exclusions": [
+      "Flights or train tickets",
+      "Lunches & dinners unless specified",
+      "Personal expenses",
+      "Travel insurance",
+      "Anything not mentioned in inclusions"
+    ]
+  },
+  "jaipur-ajmer-pushkar-3d": {
+    "id": "RJ-JAP-001",
+    "destination": "Rajasthan",
+    "type": "domestic",
+    "path": "jaipur-ajmer-pushkar",
+    "seo": {
+      "metaTitle": "Jaipur Ajmer Pushkar Tour Package | 3 Days Rajasthan Trip",
+      "metaDescription": "Book a 3-day Jaipur Ajmer Pushkar tour package covering forts of Jaipur, Ajmer Sharif Dargah and Pushkar Lake with cultural experiences.",
+      "metaKeywords": [
+        "jaipur ajmer pushkar tour",
+        "rajasthan tour package 3 days",
+        "jaipur ajmer pushkar itinerary",
+        "pushkar brahma temple tour",
+        "ajmer sharif dargah trip",
+        "jaipur heritage tour"
+      ],
+      "canonicalUrl": "/domesticpackages/jaipur-ajmer-pushkar/",
+      "ogTitle": "Jaipur, Ajmer & Pushkar Cultural Escape – 3 Days",
+      "ogDescription": "Heritage forts, sacred temples and spiritual vibes in this 3-day Jaipur Ajmer Pushkar cultural journey.",
+      "ogImage": "/images/domestic/jaipur_ajmer_pushkar.webp"
+    },
+    "title": "Jaipur, Ajmer & Pushkar Cultural Escape",
+    "duration": "3 Days / 2 Nights",
+    "price": "On Request",
+    "image": "jaipur_ajmer_pushkar",
+    "link": "",
+    "destinationsCovered": [
+      "Jaipur",
+      "Ajmer",
+      "Pushkar"
+    ],
+    "travelStyle": [
+      "Road Trip",
+      "Heritage",
+      "Spiritual"
+    ],
+    "idealFor": [
+      "Family",
+      "Friends",
+      "Cultural Travelers"
+    ],
+    "bestSeason": "October to March",
+    "itinerary": [
+      {
+        "day": 1,
+        "title": "Delhi → Jaipur Sightseeing",
+        "sections": [
+          {
+            "heading": "Travel & Breakfast",
+            "items": [
+              "Drive from Delhi to Jaipur (approx. 5 hrs)",
+              "Breakfast at hotel"
+            ]
+          },
+          {
+            "heading": "Sightseeing",
+            "items": [
+              "Amer Fort",
+              "Jaigarh Fort",
+              "Srijagat Siromani Temple",
+              "Jal Mahal",
+              "Khole Ke Hanuman Ji Temple"
+            ]
+          },
+          {
+            "heading": "Optional",
+            "items": [
+              "Evening light show",
+              "Local Rajasthani thali dinner"
+            ]
+          }
+        ],
+        "overnight": "Jaipur"
+      },
+      {
+        "day": 2,
+        "title": "Ajmer & Pushkar Excursion",
+        "sections": [
+          {
+            "heading": "Ajmer",
+            "items": [
+              "Ajmer Sharif Dargah",
+              "Adhai Din Ka Jhopra",
+              "Nasiyan Jain Temple"
+            ]
+          },
+          {
+            "heading": "Pushkar",
+            "items": [
+              "Pushkar Lake",
+              "Brahma Temple",
+              "Rangji Temple"
+            ]
+          }
+        ],
+        "overnight": "Jaipur"
+      },
+      {
+        "day": 3,
+        "title": "Jaipur Sightseeing → Delhi",
+        "sections": [
+          {
+            "heading": "City Attractions",
+            "items": [
+              "City Palace & Museum",
+              "Jantar Mantar",
+              "Hawa Mahal",
+              "Albert Hall Museum",
+              "Birla Mandir"
+            ]
+          },
+          {
+            "heading": "Optional",
+            "items": [
+              "Shopping at Bapu Bazaar or Johari Bazaar"
+            ]
+          }
+        ],
+        "overnight": ""
+      }
+    ],
+    "foodGuide": [
+      {
+        "dish": "Dal Baati Churma",
+        "place": "LMB",
+        "location": "Jaipur",
+        "special": "Quintessential Rajasthani platter",
+        "image": "rajasthan/Dal_Baati_Churma"
+      },
+      {
+        "dish": "Laal Maas",
+        "place": "Handi Restaurant",
+        "location": "Jaipur",
+        "special": "Spicy Mathania chilli mutton curry",
+        "image": "rajasthan/Laal_Maas"
+      },
+      {
+        "dish": "Pyaaz Kachori",
+        "place": "Rawat Misthan Bhandar",
+        "location": "Jaipur",
+        "special": "Flaky onion stuffed snack",
+        "image": "rajasthan/Pyaaz_Kachori_&_Mirchi_Bada"
+      },
+      {
+        "dish": "Malpua",
+        "place": "Street stalls",
+        "location": "Pushkar",
+        "special": "Temple town sweet pancake",
+        "image": "rajasthan/Rabri_Malpua"
+      }
+    ],
+    "nightlifeGuide": [
+      {
+        "city": "Jaipur",
+        "spot": "Chokhi Dhani",
+        "vibe": "Cultural",
+        "notes": "Folk dance, puppet shows and Rajasthani thali"
+      },
+      {
+        "city": "Ajmer",
+        "spot": "Dargah Courtyard",
+        "vibe": "Spiritual",
+        "notes": "Evening qawwalis and peaceful ambiance"
+      },
+      {
+        "city": "Pushkar",
+        "spot": "Lakefront Cafés",
+        "vibe": "Bohemian",
+        "notes": "Relaxed evenings with live music"
+      }
+    ],
+    "inclusions": [
+      "Private vehicle or group coach from Delhi",
+      "2 nights hotel stay in Jaipur with breakfast",
+      "Entry tickets to key monuments (as per package)",
+      "Local guide or audio guide (optional)",
+      "All taxes and driver allowances"
+    ],
+    "exclusions": [
+      "Meals other than breakfast",
+      "Personal expenses, shopping, tips",
+      "Optional activities",
+      "Travel insurance",
+      "Any additional sightseeing not mentioned"
+    ]
+  },
+  "udaipur-mount-abu-3d": {
+    "id": "RJ-UMB-002",
+    "destination": "Rajasthan",
+    "type": "domestic",
+    "path": "udaipur-mount-abu",
+    "seo": {
+      "metaTitle": "Udaipur Mount Abu Tour Package | 3 Days Rajasthan Hill Escape",
+      "metaDescription": "Book a 3-day Udaipur Mount Abu tour package covering lakes of Udaipur and hill station charm of Mount Abu with temples and scenic viewpoints.",
+      "metaKeywords": [
+        "udaipur mount abu tour",
+        "rajasthan hill station tour",
+        "udaipur mount abu itinerary",
+        "mount abu tour package",
+        "udaipur honeymoon trip",
+        "rajasthan cultural tour"
+      ],
+      "canonicalUrl": "/domesticpackages/udaipur-mount-abu/",
+      "ogTitle": "Udaipur & Mount Abu Hill Escape – 3 Days",
+      "ogDescription": "Romantic lakes, heritage palaces and the cool hill station of Mount Abu in this 3-day Rajasthan escape.",
+      "ogImage": "/images/domestic/udaipur_mount_abu.webp"
+    },
+    "title": "Udaipur & Mount Abu Hill Escape",
+    "duration": "3 Days / 2 Nights",
+    "price": "On Request",
+    "image": "udaipur_mount_abu",
+    "link": "",
+    "destinationsCovered": [
+      "Udaipur",
+      "Mount Abu"
+    ],
+    "travelStyle": [
+      "Cultural",
+      "Hill Station"
+    ],
+    "idealFor": [
+      "Couples",
+      "Families"
+    ],
+    "bestSeason": "October to March",
+    "itinerary": [
+      {
+        "day": 1,
+        "title": "Arrival in Udaipur + City Tour",
+        "sections": [
+          {
+            "heading": "City Attractions",
+            "items": [
+              "Lake Pichola & Lake Palace (boat ride optional)",
+              "Jaisamand Lake",
+              "City Palace",
+              "Sajjangarh (Monsoon Palace)"
+            ]
+          },
+          {
+            "heading": "Optional",
+            "items": [
+              "Cultural dance show at Bagore Ki Haveli"
+            ]
+          }
+        ],
+        "overnight": "Udaipur"
+      },
+      {
+        "day": 2,
+        "title": "Udaipur → Mount Abu",
+        "sections": [
+          {
+            "heading": "Sightseeing",
+            "items": [
+              "Nakki Lake",
+              "Dilwara Temples",
+              "Sunset Point",
+              "Toad Rock"
+            ]
+          },
+          {
+            "heading": "Optional",
+            "items": [
+              "Honeymoon Point trek",
+              "Achalgarh Fort visit"
+            ]
+          }
+        ],
+        "overnight": "Mount Abu"
+      },
+      {
+        "day": 3,
+        "title": "Mount Abu → Udaipur Departure",
+        "sections": [
+          {
+            "heading": "Departure",
+            "items": [
+              "Local market visit",
+              "Drive back to Udaipur",
+              "Drop at airport or railway station"
+            ]
+          }
+        ],
+        "overnight": ""
+      }
+    ],
+    "foodGuide": [
+      {
+        "dish": "Dal Baati Churma",
+        "place": "Traditional thali restaurants",
+        "location": "Udaipur",
+        "special": "Classic Rajasthani platter",
+        "image": "rajasthan/Dal_Baati_Churma"
+      },
+      {
+        "dish": "Laal Maas",
+        "place": "Ambrai Restaurant",
+        "location": "Udaipur",
+        "special": "Lake view spicy mutton curry",
+        "image": "rajasthan/Laal_Maas"
+      },
+      {
+        "dish": "Kesar Kulfi",
+        "place": "Street vendors",
+        "location": "Mount Abu",
+        "special": "Creamy saffron dessert",
+        "image": "rajasthan/Kesar_Kulfi"
+      }
+    ],
+    "nightlifeGuide": [
+      {
+        "city": "Udaipur",
+        "spot": "Bagore Ki Haveli",
+        "vibe": "Cultural",
+        "notes": "Traditional dance and puppet show"
+      },
+      {
+        "city": "Mount Abu",
+        "spot": "Nakki Lake Promenade",
+        "vibe": "Lively",
+        "notes": "Evening strolls and street food"
+      }
+    ],
+    "inclusions": [
+      "Accommodation in 3-star or heritage hotels",
+      "Daily breakfast",
+      "Private AC vehicle for sightseeing",
+      "Driver allowance, tolls, parking and taxes",
+      "Local assistance"
+    ],
+    "exclusions": [
+      "Airfare or train tickets",
+      "Entry fees and boating charges",
+      "Meals other than breakfast",
+      "Personal expenses",
+      "Travel insurance",
+      "GST or government surcharges"
+    ]
+  },
+  "jodhpur-jaisalmer-4d": {
+    "id": "RJ-JDJ-003",
+    "destination": "Rajasthan",
+    "type": "domestic",
+    "path": "jodhpur-jaisalmer",
+    "seo": {
+      "metaTitle": "Jodhpur Jaisalmer Tour Package | 4 Days Desert Safari Trip",
+      "metaDescription": "Book a 4-day Jodhpur Jaisalmer tour package covering Mehrangarh Fort, Golden City havelis and Sam Sand Dunes desert safari with cultural evenings.",
+      "metaKeywords": [
+        "jodhpur jaisalmer tour",
+        "rajasthan desert safari package",
+        "jodhpur jaisalmer itinerary",
+        "sam sand dunes camel safari",
+        "jaisalmer desert camp tour",
+        "rajasthan heritage tour"
+      ],
+      "canonicalUrl": "/domesticpackages/jodhpur-jaisalmer/",
+      "ogTitle": "Jodhpur & Jaisalmer Desert Adventure – 4 Days",
+      "ogDescription": "Explore forts of Jodhpur and golden deserts of Jaisalmer with camel safari and cultural nights in this 4-day adventure.",
+      "ogImage": "/images/domestic/jaisalmer_jodhpur.webp"
+    },
+    "title": "Jodhpur & Jaisalmer Desert Adventure",
+    "duration": "4 Days / 3 Nights",
+    "price": "On Request",
+    "image": "jaisalmer_jodhpur",
+    "link": "",
+    "destinationsCovered": [
+      "Jodhpur",
+      "Jaisalmer"
+    ],
+    "travelStyle": [
+      "Heritage",
+      "Desert Safari"
+    ],
+    "idealFor": [
+      "Couples",
+      "Adventure Seekers"
+    ],
+    "bestSeason": "October to March",
+    "itinerary": [
+      {
+        "day": 1,
+        "title": "Arrival in Jodhpur",
+        "sections": [
+          {
+            "heading": "Sightseeing",
+            "items": [
+              "Mehrangarh Fort",
+              "Jaswant Thada",
+              "Umaid Bhawan Palace (exterior)"
+            ]
+          },
+          {
+            "heading": "Optional",
+            "items": [
+              "Blue City walk"
+            ]
+          }
+        ],
+        "overnight": "Jodhpur"
+      },
+      {
+        "day": 2,
+        "title": "Jodhpur → Jaisalmer",
+        "sections": [
+          {
+            "heading": "Sightseeing",
+            "items": [
+              "Patwon Ki Haveli",
+              "Salim Singh Haveli",
+              "Nathmal Ki Haveli",
+              "Sunset at Gadisar Lake"
+            ]
+          },
+          {
+            "heading": "Optional",
+            "items": [
+              "Puppet show",
+              "Rooftop dinner"
+            ]
+          }
+        ],
+        "overnight": "Jaisalmer"
+      },
+      {
+        "day": 3,
+        "title": "Desert Safari & Cultural Evening",
+        "sections": [
+          {
+            "heading": "Exploration",
+            "items": [
+              "Jaisalmer Fort",
+              "Bada Bagh",
+              "Kuldhara Village"
+            ]
+          },
+          {
+            "heading": "Desert Experience",
+            "items": [
+              "Camel ride at Sam Sand Dunes",
+              "Folk dance and cultural dinner"
+            ]
+          }
+        ],
+        "overnight": "Desert Camp"
+      },
+      {
+        "day": 4,
+        "title": "Departure",
+        "sections": [
+          {
+            "heading": "Transfer",
+            "items": [
+              "Breakfast at camp",
+              "Transfer to Jaisalmer city or onward journey"
+            ]
+          }
+        ],
+        "overnight": ""
+      }
+    ],
+    "foodGuide": [
+      {
+        "dish": "Dal Baati Churma",
+        "place": "Gypsy Restaurant",
+        "location": "Jodhpur",
+        "special": "Traditional Rajasthani staple",
+        "image": "rajasthan/Dal_Baati_Churma"
+      },
+      {
+        "dish": "Makhaniya Lassi",
+        "place": "Mishrilal Hotel",
+        "location": "Jodhpur",
+        "special": "Thick saffron flavored lassi",
+        "image": "rajasthan/Makhaniya_Lassi"
+      },
+      {
+        "dish": "Ker Sangri",
+        "place": "Local dhabas",
+        "location": "Jaisalmer",
+        "special": "Desert bean sabzi",
+        "image": "rajasthan/Ker_Sangri"
+      }
+    ],
+    "nightlifeGuide": [
+      {
+        "city": "Jodhpur",
+        "spot": "Clock Tower Market",
+        "vibe": "Bustling",
+        "notes": "Street food and handicrafts"
+      },
+      {
+        "city": "Jaisalmer",
+        "spot": "Desert Camp",
+        "vibe": "Cultural",
+        "notes": "Folk dance, music and bonfire dinner"
+      }
+    ],
+    "inclusions": [
+      "3-star hotel and desert camp accommodation",
+      "Daily breakfast",
+      "1 dinner at desert camp",
+      "Private AC cab",
+      "Camel ride and cultural show",
+      "All taxes and driver allowances"
+    ],
+    "exclusions": [
+      "Monument entry fees",
+      "Airfare or train tickets",
+      "Lunches and personal expenses",
+      "Travel insurance"
+    ]
+  },
+  "kutch-bhuj-dholavira-rann-5d": {
+    "id": "GJ-KUT-001",
+    "destination": "Kutch",
+    "type": "domestic",
+    "path": "kutch-bhuj-dholavira-rann",
+    "seo": {
+      "metaTitle": "Kutch Bhuj Dholavira Tour | Rann of Kutch Package 5 Days",
+      "metaDescription": "Book a 5-day Kutch tour package covering Bhuj, Dholavira Harappan site, Mandvi Beach and Rann of Kutch with Rann Utsav cultural experience.",
+      "metaKeywords": [
+        "kutch tour package",
+        "bhuj dholavira tour",
+        "rann of kutch utsav",
+        "dholavira harappan site tour",
+        "kutch cultural tour",
+        "white rann desert trip"
+      ],
+      "canonicalUrl": "/domesticpackages/kutch-bhuj-dholavira-rann/",
+      "ogTitle": "Heritage Bhuj & Dholavira Tour with Rann Utsav – 5 Days",
+      "ogDescription": "Experience heritage of Bhuj, ancient Dholavira ruins and the vibrant Rann Utsav at the White Desert of Kutch.",
+      "ogImage": "/images/domestic/Rann_of_Kutch.webp"
+    },
+    "title": "Heritage Bhuj & Dholavira Tour with Rann Utsav",
+    "duration": "5 Days / 4 Nights",
+    "price": "On Request",
+    "image": "Rann_of_Kutch",
+    "link": "",
+    "destinationsCovered": [
+      "Bhuj",
+      "Dholavira",
+      "Mandvi",
+      "Hodka",
+      "Rann of Kutch"
+    ],
+    "travelStyle": [
+      "Heritage",
+      "Cultural",
+      "Desert Experience"
+    ],
+    "idealFor": [
+      "Culture Lovers",
+      "Families",
+      "Couples"
+    ],
+    "bestSeason": "November to February",
+    "itinerary": [
+      {
+        "day": 1,
+        "title": "Arrival in Bhuj",
+        "sections": [
+          {
+            "heading": "Arrival & Check-in",
+            "items": [
+              "Arrive at Bhuj airport or railway station",
+              "Check-in at homestay or hotel in Bhuj"
+            ]
+          },
+          {
+            "heading": "Evening Sightseeing & Shopping",
+            "items": [
+              "Visit Prag Mahal – 19th-century palace with Gothic architecture",
+              "Local market shopping in Bhuj"
+            ]
+          }
+        ],
+        "overnight": "Bhuj"
+      },
+      {
+        "day": 2,
+        "title": "Excursion to Dholavira",
+        "sections": [
+          {
+            "heading": "Travel & Exploration",
+            "items": [
+              "Breakfast at hotel",
+              "Drive to Dholavira – prominent Harappan archaeological site",
+              "Explore ancient ruins of the Indus Valley Civilization"
+            ]
+          },
+          {
+            "heading": "Meals & Return",
+            "items": [
+              "Lunch with simple local food at town center",
+              "Return drive to Bhuj"
+            ]
+          }
+        ],
+        "overnight": "Bhuj"
+      },
+      {
+        "day": 3,
+        "title": "Bhuj → Mandvi → Hodka",
+        "sections": [
+          {
+            "heading": "Mandvi Visit",
+            "items": [
+              "Breakfast and check-out from Bhuj",
+              "Drive to Mandvi",
+              "Relax at Mandvi Beach"
+            ]
+          },
+          {
+            "heading": "Optional Sightseeing",
+            "items": [
+              "Visit Vijay Vilas Palace (optional)"
+            ]
+          },
+          {
+            "heading": "Transfer to Hodka",
+            "items": [
+              "Afternoon transfer to Hodka village",
+              "Check-in at hotel or village camp in Hodka"
+            ]
+          }
+        ],
+        "overnight": "Hodka"
+      },
+      {
+        "day": 4,
+        "title": "Excursion to Rann of Kutch",
+        "sections": [
+          {
+            "heading": "Village Experience",
+            "items": [
+              "Breakfast at hotel",
+              "Explore Hodka village",
+              "Interact with local artisans and handicrafts"
+            ]
+          },
+          {
+            "heading": "Rann Utsav Experience",
+            "items": [
+              "Afternoon drive to Rann of Kutch",
+              "Check-in at Rann Utsav venue",
+              "Cultural melas and Kutchi food stalls",
+              "Sunset over the White Desert",
+              "Folk music and dance shows at Rann Utsav"
+            ]
+          },
+          {
+            "heading": "Return",
+            "items": [
+              "Return to Hodka after evening programs"
+            ]
+          }
+        ],
+        "overnight": "Hodka"
+      },
+      {
+        "day": 5,
+        "title": "Departure from Kutch",
+        "sections": [
+          {
+            "heading": "Return Journey",
+            "items": [
+              "Breakfast and check-out from Hodka",
+              "Drive back to Bhuj"
+            ]
+          },
+          {
+            "heading": "Enroute Sightseeing",
+            "items": [
+              "Visit Kalo Dungar (Black Hill) for panoramic views of the Great Rann",
+              "Visit Naroni village to experience local crafts and culture"
+            ]
+          },
+          {
+            "heading": "Drop",
+            "items": [
+              "Drop at Bhuj airport or railway station for onward journey"
+            ]
+          }
+        ],
+        "overnight": ""
+      }
+    ],
+    "foodGuide": [
+      {
+        "dish": "Gujarati Thali",
+        "place": "Umiyaji Dining Hall",
+        "location": "Bhuj",
+        "special": "Unlimited traditional Kutchi and Gujarati flavors",
+        "image": "kutch/Gujarati_Thali"
+      },
+      {
+        "dish": "North Indian Punjabi Cuisine",
+        "place": "Kake Di Hatti",
+        "location": "Bhuj",
+        "special": "Rich Punjabi gravies and hearty portions",
+        "image": "kutch/Punjabi_Food"
+      },
+      {
+        "dish": "Multi-Cuisine Meals",
+        "place": "Green Rock Restaurant",
+        "location": "Bhuj",
+        "special": "Indian and continental options popular with travelers",
+        "image": "kutch/Multi_Cuisine_Meal"
+      },
+      {
+        "dish": "Kutchi Street Snacks",
+        "place": "Bhuj Market",
+        "location": "Bhuj",
+        "special": "Dabeli, fafda-jalebi, khaman, sev khamani",
+        "image": "kutch/Kutchi_Street_Food"
+      }
+    ],
+    "nightlifeGuide": [
+      {
+        "city": "Bhuj",
+        "spot": "Local Markets",
+        "vibe": "Casual",
+        "notes": "Evening shopping and street food experience"
+      },
+      {
+        "city": "Rann of Kutch",
+        "spot": "Rann Utsav Venue",
+        "vibe": "Cultural",
+        "notes": "Folk music, dance shows, cultural melas and desert ambiance"
+      },
+      {
+        "city": "Hodka",
+        "spot": "Village Courtyards",
+        "vibe": "Traditional",
+        "notes": "Quiet village evenings with local culture and hospitality"
+      }
+    ],
+    "inclusions": [
+      "Accommodation on twin-sharing basis in Bhuj and Hodka",
+      "Daily breakfast",
+      "Internal travel by tempo traveller or similar vehicle",
+      "All transfers, sightseeing and activities as per itinerary"
+    ],
+    "exclusions": [
+      "Flights or trains to and from Bhuj",
+      "Meals not mentioned in inclusions",
+      "Entry charges at monuments",
+      "Personal expenses such as laundry, calls and shopping",
+      "Anything not listed under inclusions"
+    ]
+  },
+  "spiti-summer-short-circuit-7d": {
+    "id": "HP-SPT-001",
+    "destination": "Spiti Valley",
+    "type": "domestic",
+    "path": "spiti-summer-short-circuit",
+    "seo": {
+      "metaTitle": "Spiti Valley Summer Tour Package | 7 Days Short Circuit",
+      "metaDescription": "Book a 7-day Spiti Valley summer tour covering Manali, Kaza, Key Monastery, Hikkim, Langza and Chandra Taal with high-altitude adventure.",
+      "metaKeywords": [
+        "spiti valley tour package",
+        "spiti summer circuit",
+        "manali to spiti road trip",
+        "kaza chandra taal itinerary",
+        "spiti valley backpacking tour",
+        "high altitude himachal trip"
+      ],
+      "canonicalUrl": "/domesticpackages/spiti-summer-short-circuit/",
+      "ogTitle": "Spiti Valley Summer Short Circuit – 7 Days",
+      "ogDescription": "High-altitude villages, monasteries and stargazing at Chandra Taal in this adventurous Spiti Valley summer circuit.",
+      "ogImage": "/images/domestic/spiti_short_circuit.webp"
+    },
+    "title": "Spiti Valley Summer Short Circuit",
+    "duration": "7 Days / 6 Nights",
+    "price": "On Request",
+    "image": "spiti_short_circuit",
+    "link": "",
+    "destinationsCovered": [
+      "Manali",
+      "Kaza",
+      "Hikkim",
+      "Langza",
+      "Komic",
+      "Key Monastery",
+      "Chandra Taal"
+    ],
+    "travelStyle": [
+      "Adventure",
+      "Culture",
+      "High-Altitude"
+    ],
+    "idealFor": [
+      "Backpackers",
+      "Adventure Seekers",
+      "Photography Lovers"
+    ],
+    "bestSeason": "June to September",
+    "itinerary": [
+      {
+        "day": 1,
+        "title": "Delhi Departure",
+        "sections": [
+          {
+            "heading": "Travel",
+            "items": [
+              "Overnight Volvo journey from Delhi"
+            ]
+          },
+          {
+            "heading": "Tip",
+            "items": [
+              "Carry snacks like roasted makhana and dried apricots from Himachal"
+            ]
+          }
+        ],
+        "overnight": "In Transit"
+      },
+      {
+        "day": 2,
+        "title": "Manali Arrival & Café Crawl",
+        "sections": [
+          {
+            "heading": "Sightseeing",
+            "items": [
+              "Mall Road exploration",
+              "Visit Hidimba Temple"
+            ]
+          },
+          {
+            "heading": "Food Trail",
+            "items": [
+              "Johnson’s Café – trout fish & apple pie",
+              "Café 1947 – riverside pasta & live music"
+            ]
+          },
+          {
+            "heading": "Activities",
+            "items": [
+              "Short walk to Jogini Falls",
+              "Visit Vashisht hot springs"
+            ]
+          }
+        ],
+        "overnight": "Manali"
+      },
+      {
+        "day": 3,
+        "title": "Manali → Kaza via Atal Tunnel",
+        "sections": [
+          {
+            "heading": "Journey",
+            "items": [
+              "Scenic drive via Atal Tunnel and Kunzum Pass"
+            ]
+          },
+          {
+            "heading": "Food Trail",
+            "items": [
+              "The Himalayan Café – thukpa, tingmo, butter tea",
+              "Sol Café – yak cheese sandwich, seabuckthorn juice"
+            ]
+          },
+          {
+            "heading": "Activities",
+            "items": [
+              "Photography stops at Kunzum Pass and Losar"
+            ]
+          }
+        ],
+        "overnight": "Kaza"
+      },
+      {
+        "day": 4,
+        "title": "Kaza Local Circuit",
+        "sections": [
+          {
+            "heading": "Monasteries & Villages",
+            "items": [
+              "Key Monastery – morning prayers",
+              "Hikkim – world’s highest post office",
+              "Komic – highest monastery",
+              "Langza – fossils and Buddha statue"
+            ]
+          },
+          {
+            "heading": "Food Trail",
+            "items": [
+              "Taste of Spiti – sidu and chhang",
+              "Zomsa Café – momos and churpe"
+            ]
+          },
+          {
+            "heading": "Activities",
+            "items": [
+              "Fossil walk with locals",
+              "Monastery meditation"
+            ]
+          }
+        ],
+        "overnight": "Kaza"
+      },
+      {
+        "day": 5,
+        "title": "Kaza → Chandra Taal",
+        "sections": [
+          {
+            "heading": "Travel",
+            "items": [
+              "Drive to Chandra Taal via Losar"
+            ]
+          },
+          {
+            "heading": "Food Trail",
+            "items": [
+              "Campfire dinner with rajma-chawal and gujhiya"
+            ]
+          },
+          {
+            "heading": "Activities",
+            "items": [
+              "Stargazing",
+              "Astrophotography workshop"
+            ]
+          }
+        ],
+        "overnight": "Chandra Taal Camps"
+      },
+      {
+        "day": 6,
+        "title": "Chandra Taal → Manali → Delhi",
+        "sections": [
+          {
+            "heading": "Return Journey",
+            "items": [
+              "Drive back to Manali",
+              "Overnight Volvo journey to Delhi"
+            ]
+          },
+          {
+            "heading": "Optional Stop",
+            "items": [
+              "Batal for chai and local stories"
+            ]
+          }
+        ],
+        "overnight": "In Transit"
+      },
+      {
+        "day": 7,
+        "title": "Arrival in Delhi",
+        "sections": [
+          {
+            "heading": "Trip End",
+            "items": [
+              "Arrival in Delhi",
+              "Carry back apricot jam, churpe and fossil souvenirs"
+            ]
+          }
+        ],
+        "overnight": ""
+      }
+    ],
+    "foodGuide": [
+      {
+        "dish": "Butter Tea (Po Cha)",
+        "place": "The Himalayan Café",
+        "location": "Kaza",
+        "special": "Traditional Tibetan salty tea for altitude",
+        "image": "spiti/Butter_Tea_(Po_Cha)"
+      },
+      {
+        "dish": "Thukpa",
+        "place": "The Himalayan Café",
+        "location": "Kaza",
+        "special": "Hot noodle soup ideal for cold evenings",
+        "image": "spiti/Thukpa"
+      },
+      {
+        "dish": "Yak Cheese Sandwich",
+        "place": "Sol Café",
+        "location": "Kaza",
+        "special": "Local yak cheese with seabuckthorn juice",
+        "image": "spiti/Yak_Cheese_Sandwich"
+      },
+      {
+        "dish": "Sidu",
+        "place": "Taste of Spiti",
+        "location": "Kaza",
+        "special": "Steamed wheat dumplings with ghee",
+        "image": "spiti/Siddu"
+      },
+      {
+        "dish": "Rajma Chawal",
+        "place": "Campfire Dining",
+        "location": "Chandra Taal",
+        "special": "Comfort food by the bonfire",
+        "image": "spiti/Rajma_Chawal"
+      }
+    ],
+    "nightlifeGuide": [
+      {
+        "city": "Manali",
+        "spot": "Café 1947",
+        "vibe": "Lively",
+        "notes": "Riverside café with live music"
+      },
+      {
+        "city": "Kaza",
+        "spot": "Sol Café",
+        "vibe": "Cozy",
+        "notes": "Evening hangout with herbal teas"
+      },
+      {
+        "city": "Chandra Taal",
+        "spot": "Campfire Dinner",
+        "vibe": "Rustic",
+        "notes": "Folk stories and stargazing under the night sky"
+      }
+    ],
+    "inclusions": [
+      "Volvo transfers Delhi ↔ Manali",
+      "Tempo Traveller for Manali ↔ Spiti",
+      "Hotel and camp stays on sharing basis",
+      "Meals: Breakfast and Dinner",
+      "Inner line permits",
+      "Team captain",
+      "Oxygen support"
+    ],
+    "exclusions": [
+      "GST @ 5%",
+      "Meals not listed",
+      "Personal expenses",
+      "Optional activities",
+      "Costs due to weather delays",
+      "Anything not under inclusions"
+    ]
+  },
+  "spiti-valley-road-trip-9d": {
+    "id": "HP-SPT-002",
+    "destination": "Spiti Valley",
+    "type": "domestic",
+    "path": "spiti-valley-road-trip",
+    "seo": {
+      "metaTitle": "Spiti Valley Road Trip via Shimla | 9 Days Adventure Tour",
+      "metaDescription": "Book a 9-day Spiti Valley road trip via Shimla covering Sangla, Chitkul, Tabo, Kaza, Chandratal and Manali with high-altitude Himalayan landscapes.",
+      "metaKeywords": [
+        "spiti valley road trip",
+        "spiti valley tour via shimla",
+        "shimla to spiti itinerary",
+        "spiti valley 9 days trip",
+        "chandratal lake road trip",
+        "spiti adventure tour"
+      ],
+      "canonicalUrl": "/domesticpackages/spiti-valley-road-trip/",
+      "ogTitle": "Spiti Valley Road Trip via Shimla – 9 Days",
+      "ogDescription": "An epic Himalayan road journey through Shimla, Kinnaur, Spiti villages and Chandratal Lake.",
+      "ogImage": "/images/domestic/spiti_valley.webp"
+    },
+    "title": "Spiti Valley Road Trip via Shimla",
+    "duration": "9 Days / 8 Nights",
+    "price": "On Request",
+    "image": "spiti_valley",
+    "link": "",
+    "destinationsCovered": [
+      "Shimla",
+      "Sangla",
+      "Chitkul",
+      "Tabo",
+      "Kaza",
+      "Chandratal",
+      "Manali"
+    ],
+    "travelStyle": [
+      "Adventure",
+      "Scenic",
+      "Cultural"
+    ],
+    "idealFor": [
+      "Adventure Travelers",
+      "Nature Lovers"
+    ],
+    "bestSeason": "June to October",
+    "itinerary": [
+      {
+        "day": 1,
+        "title": "Delhi → Shimla",
+        "sections": [
+          {
+            "heading": "Travel",
+            "items": [
+              "Overnight Volvo journey from ISBT Kashmiri Gate"
+            ]
+          }
+        ],
+        "overnight": "In Transit"
+      },
+      {
+        "day": 2,
+        "title": "Shimla → Sangla / Chitkul",
+        "sections": [
+          {
+            "heading": "Scenic Drive",
+            "items": [
+              "Drive via Kufri, Narkanda, Rampur",
+              "Enter Kinnaur Valley"
+            ]
+          },
+          {
+            "heading": "Exploration",
+            "items": [
+              "Baspa River",
+              "Chitkul village"
+            ]
+          }
+        ],
+        "overnight": "Sangla / Chitkul"
+      },
+      {
+        "day": 3,
+        "title": "Sangla → Tabo",
+        "sections": [
+          {
+            "heading": "Enroute Visits",
+            "items": [
+              "Nako Lake",
+              "Gue Village mummy temple",
+              "Tabo Monastery"
+            ]
+          }
+        ],
+        "overnight": "Tabo"
+      },
+      {
+        "day": 4,
+        "title": "Tabo → Kaza",
+        "sections": [
+          {
+            "heading": "Monasteries",
+            "items": [
+              "Dhankar Monastery",
+              "Dhankar Lake trek (optional)",
+              "Lhalung village temples"
+            ]
+          }
+        ],
+        "overnight": "Kaza"
+      },
+      {
+        "day": 5,
+        "title": "Spiti Village Exploration",
+        "sections": [
+          {
+            "heading": "High Altitude Villages",
+            "items": [
+              "Hikkim",
+              "Komic",
+              "Langza"
+            ]
+          },
+          {
+            "heading": "Optional",
+            "items": [
+              "Fossil hunting",
+              "Local craft shopping"
+            ]
+          }
+        ],
+        "overnight": "Kaza"
+      },
+      {
+        "day": 6,
+        "title": "Kaza → Chandratal",
+        "sections": [
+          {
+            "heading": "Sightseeing",
+            "items": [
+              "Key Monastery",
+              "Kibber Village",
+              "Chicham Bridge"
+            ]
+          },
+          {
+            "heading": "Travel",
+            "items": [
+              "Drive to Chandratal Lake"
+            ]
+          }
+        ],
+        "overnight": "Chandratal Camps"
+      },
+      {
+        "day": 7,
+        "title": "Chandratal → Manali",
+        "sections": [
+          {
+            "heading": "Mountain Passes",
+            "items": [
+              "Cross Kunzum Pass",
+              "Descend via Rohtang Pass"
+            ]
+          },
+          {
+            "heading": "Optional",
+            "items": [
+              "Solang Valley adventure activities"
+            ]
+          }
+        ],
+        "overnight": "Manali"
+      },
+      {
+        "day": 8,
+        "title": "Manali Leisure → Delhi",
+        "sections": [
+          {
+            "heading": "Free Time",
+            "items": [
+              "Café hopping",
+              "Shopping",
+              "Visit Jogini Falls or Old Manali"
+            ]
+          },
+          {
+            "heading": "Travel",
+            "items": [
+              "Overnight Volvo to Delhi"
+            ]
+          }
+        ],
+        "overnight": "In Transit"
+      },
+      {
+        "day": 9,
+        "title": "Arrival in Delhi",
+        "sections": [
+          {
+            "heading": "Trip End",
+            "items": [
+              "Arrival at ISBT Kashmiri Gate"
+            ]
+          }
+        ],
+        "overnight": ""
+      }
+    ],
+    "foodGuide": [
+      {
+        "dish": "Grilled River Trout",
+        "place": "Riverside Cafés",
+        "location": "Sangla",
+        "special": "Fresh Himalayan river fish",
+        "image": "spiti/Grilled_River_Trout"
+      },
+      {
+        "dish": "Tingmo",
+        "place": "Local Homestays",
+        "location": "Kaza",
+        "special": "Steamed Tibetan bread with curry",
+        "image": "spiti/Tingmo"
+      },
+      {
+        "dish": "Seabuckthorn Juice",
+        "place": "Sol Café",
+        "location": "Kaza",
+        "special": "Antioxidant-rich local drink",
+        "image": "spiti/Seabuckthorn_Juice"
+      },
+      {
+        "dish": "Warm Apple Pie",
+        "place": "Johnson’s Café",
+        "location": "Manali",
+        "special": "Classic Himalayan dessert",
+        "image": "spiti/Warm_Apple_Pie"
+      }
+    ],
+    "nightlifeGuide": [
+      {
+        "city": "Shimla",
+        "spot": "Mall Road",
+        "vibe": "Lively",
+        "notes": "Evening stroll and shopping"
+      },
+      {
+        "city": "Kaza",
+        "spot": "Monastery Courtyards",
+        "vibe": "Peaceful",
+        "notes": "Chants and butter tea evenings"
+      },
+      {
+        "city": "Manali",
+        "spot": "Old Manali Market",
+        "vibe": "Vibrant",
+        "notes": "Cafés, bars and nightlife"
+      }
+    ],
+    "inclusions": [
+      "Volvo transfers Delhi–Shimla and Manali–Delhi",
+      "Tempo Traveller for full circuit",
+      "Accommodation as per itinerary",
+      "Meals as specified",
+      "Team leader",
+      "Oxygen cylinder",
+      "Inner line permits",
+      "Driver and toll charges"
+    ],
+    "exclusions": [
+      "Airfare or train tickets",
+      "Lunches and snacks",
+      "Personal expenses",
+      "Optional adventure activities",
+      "Travel insurance",
+      "Unforeseen expenses"
+    ]
+  }
+}

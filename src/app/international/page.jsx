@@ -1,5 +1,6 @@
 "use client";
 
+import { BASE_PATH, withBase } from "@/lib/basePath";
 import tripsDataRaw from "../../data/InternationalPackages.json";
 
 export default function International() {
@@ -15,18 +16,18 @@ export default function International() {
                     <h3 className="fw_600">International Trips</h3>
                 </div>
                 {/* <div className="col text-end">
-                    <a href="/international" className="btn btn-basic">See All</a>
+                    <a href={withBase("/international")} className="btn btn-basic">See All</a>
                 </div> */}
             </div>
 
             <div className="row g-4">
                 {tripsData.map((trip) => (
                     <div className="col-12 col-sm-6 col-lg-3" key={trip.id}>
-                        <a href={`/internationalpackages/${trip.path}`}>
+                        <a href={withBase(`/internationalpackages/${trip.path}`)}>
                             <div
                                 className="card text-white"
                                 style={{
-                                    backgroundImage: `url(/images/international/${trip.image}.webp)`,
+                                    backgroundImage: `url(${BASE_PATH}/images/international/${trip.image}.webp)`,
                                     backgroundSize: "cover",
                                     backgroundPosition: "center",
                                     minHeight: "250px",

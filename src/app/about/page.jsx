@@ -1,3 +1,4 @@
+import { withBase } from "@/lib/basePath";
 export const metadata = {
     title: "About Us | Off The Map – Crafting Meaningful Travel Experiences",
     description:
@@ -44,9 +45,9 @@ export const metadata = {
 };
 
 export default function About() {
-    const travel = "/images/Traveling-cuate.svg"
-    const travel2 = "/images/Traveling-rafiki.svg"
-    const Trippana = "/images/Trip-pana.svg"
+    const travel = withBase("/images/Traveling-cuate.svg")
+    const travel2 = withBase("/images/Traveling-rafiki.svg")
+    const Trippana = withBase("/images/Trip-pana.svg")
 
     const items = [
         {

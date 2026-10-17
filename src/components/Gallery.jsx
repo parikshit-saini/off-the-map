@@ -1,3 +1,4 @@
+import { withBase } from "@/lib/basePath";
 import fs from "fs";
 import path from "path";
 
@@ -27,7 +28,7 @@ export default function Gallery() {
             <div className="galleryGrid">
                 {images.map((img, index) => (
                     <div className="galleryItem" key={index}>
-                        <img src={`/images/Gallery/${img}`} />
+                        <img src={withBase(`/images/Gallery/${img}`)} />
                     </div>
                 ))}
             </div>

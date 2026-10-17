@@ -1,5 +1,6 @@
 "use client";
 
+import { BASE_PATH } from "@/lib/basePath";
 import tripsData from "../../data/upcomingTrips.json";
 
 export default function UpcomingTripsGrid() {
@@ -21,7 +22,7 @@ export default function UpcomingTripsGrid() {
                             <div
                                 className="card h-100 text-white"
                                 style={{
-                                    backgroundImage: `url(/images/${trip.image}.webp)`,
+                                    backgroundImage: `url(${BASE_PATH}/images/${trip.image}.webp)`,
                                     backgroundSize: "cover",
                                     backgroundPosition: "center",
                                     minHeight: "400px",

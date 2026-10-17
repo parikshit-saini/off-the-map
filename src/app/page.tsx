@@ -1,3 +1,4 @@
+import { BASE_PATH } from "@/lib/basePath";
 // import Image from "next/image";
 // import styles from "./page.module.css";
 import YoutubeVideos from "../components/sliders/YoutubeVideos"
@@ -15,7 +16,7 @@ export default function Home() {
     <div>
       {/* Hero Section  */}
       {/* <section className="hero">
-        <div className="heroImage" style={{ backgroundImage: `url(/images/herobg.jpg)` }}>
+        <div className="heroImage" style={{ backgroundImage: `url(${BASE_PATH}/images/herobg.jpg)` }}>
           <div className="content">
             <h1>Unforgettable Journeys</h1>
             <h2>Crafted Just for You</h2>

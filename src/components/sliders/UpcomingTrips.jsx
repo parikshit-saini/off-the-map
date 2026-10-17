@@ -1,5 +1,6 @@
 "use client";
 
+import { BASE_PATH, withBase } from "@/lib/basePath";
 import { Swiper, SwiperSlide } from "swiper/react";
 import { Navigation, Pagination } from "swiper/modules";
 import { useRef } from "react";
@@ -22,7 +23,7 @@ export default function UpcomingTrips() {
                 </div>
                 <div className="col-sm-6 text-end">
                     {/* Custom navigation buttons */}
-                    <a href="/upcomming" className="btn btn-basic me-3">See All</a>
+                    <a href={withBase("/upcomming")} className="btn btn-basic me-3">See All</a>
 
                     <button ref={prevRef} className="custom-prev navsBtns btn btn-outline-secondary me-2">
                         <i className="fa-solid fa-angle-left"></i>
@@ -58,7 +59,7 @@ export default function UpcomingTrips() {
                             <div
                                 className="card  h-100 text-white"
                                 style={{
-                                    backgroundImage: `url(/images/${trip.image}.webp)`,
+                                    backgroundImage: `url(${BASE_PATH}/images/${trip.image}.webp)`,
                                     backgroundSize: "cover",
                                     backgroundPosition: "center",
                                     minHeight: "300px",

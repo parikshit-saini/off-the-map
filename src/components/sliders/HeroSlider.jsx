@@ -1,5 +1,6 @@
 "use client";
 
+import { withBase } from "@/lib/basePath";
 import { Swiper, SwiperSlide } from "swiper/react";
 import { Autoplay, Pagination, EffectFade } from "swiper/modules";
 
@@ -11,19 +12,19 @@ import "swiper/css/effect-fade";
 export default function HeroSlider() {
     const slides = [
         {
-            bg: "/images/heroslider/slider_1.webp",
+            bg: withBase("/images/heroslider/slider_1.webp"),
             title: "Unforgettable Journeys",
             subtitle: "Crafted Just for You",
             text: "From Dubai’s skyline to Mahakal’s blessings, discover curated travel experiences with expert support.",
         },
         {
-            bg: "/images/heroslider/slider_2.webp",
+            bg: withBase("/images/heroslider/slider_2.webp"),
             title: "Explore The World",
             subtitle: "With Trusted Travel Experts",
             text: "Handpicked destinations, seamless planning, and unforgettable memories.",
         },
         {
-            bg: "/images/heroslider/slider_3.webp",
+            bg: withBase("/images/heroslider/slider_3.webp"),
             title: "Travel Beyond Boundaries",
             subtitle: "Experiences That Stay Forever",
             text: "International & domestic tours designed for comfort and adventure.",

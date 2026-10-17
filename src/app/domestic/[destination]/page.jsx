@@ -1,3 +1,4 @@
+import { BASE_PATH } from "@/lib/basePath";
 import tripsDataRaw from "@/data/DomesticPackages.json";
 import Link from "next/link";
 import EnquiryForm from '../../../components/Enquiryform';
@@ -63,7 +64,7 @@ export default function DestinationPage({ params }) {
                                         <div
                                             className="packageCard text-white"
                                             style={{
-                                                backgroundImage: `url(/images/domestic/${trip.image}.webp)`,
+                                                backgroundImage: `url(${BASE_PATH}/images/domestic/${trip.image}.webp)`,
                                                 backgroundSize: "cover",
                                                 backgroundPosition: "center",
                                                 position: "relative",

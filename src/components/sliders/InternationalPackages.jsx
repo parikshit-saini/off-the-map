@@ -1,5 +1,6 @@
 "use client";
 
+import { BASE_PATH, withBase } from "@/lib/basePath";
 import { Swiper, SwiperSlide } from "swiper/react";
 import { Navigation } from "swiper/modules";
 import { useRef } from "react";
@@ -51,7 +52,7 @@ export default function InternationalPackages() {
                     <h3 className="fw_600">International Trips</h3>
                 </div>
                 <div className="col-sm-6 text-end">
-                    <a href="/international" className="btn btn-basic me-3">
+                    <a href={withBase("/international")} className="btn btn-basic me-3">
                         See All
                     </a>
                     <button
@@ -92,8 +93,8 @@ export default function InternationalPackages() {
                         destinationCountMap[trip.destinationSlug] > 1;
 
                     const redirectUrl = hasMultiplePackages
-                        ? `/international/${trip.destinationSlug}`
-                        : `/internationalpackages/${trip.path}`;
+                        ? withBase(`/international/${trip.destinationSlug}`)
+                        : withBase(`/internationalpackages/${trip.path}`);
 
                     return (
                         <SwiperSlide key={trip.destinationSlug}>
@@ -102,7 +103,7 @@ export default function InternationalPackages() {
                                     <div
                                         className="packageCard text-white"
                                         style={{
-                                            backgroundImage: `url(/images/international/${trip.image}.webp)`,
+                                            backgroundImage: `url(${BASE_PATH}/images/international/${trip.image}.webp)`,
                                             backgroundSize: "cover",
                                             backgroundPosition: "center",
                                             position: "relative",

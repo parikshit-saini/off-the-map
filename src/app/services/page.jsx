@@ -1,3 +1,4 @@
+import { withBase } from "@/lib/basePath";
 /* ================= SEO METADATA ================= */
 export const metadata = {
     title: "Our Services | Off The Map – Travel Experiences Crafted for You",
@@ -46,7 +47,7 @@ export const metadata = {
 /* ================================================= */
 
 export default function Services() {
-    const adventure = "/images/services/adventure.jpg"
+    const adventure = withBase("/images/services/adventure.jpg")
     const services = [
         {
             key: 'adventure',
@@ -383,7 +384,7 @@ export default function Services() {
 
                             <div className="col-md-6 center_center">
                                 {/* Replace `service.image` with actual imported variable (e.g. adventureImg) */}
-                                <img src={`/images/services/${service.image}.png`} alt={service.title} className="w-75" />
+                                <img src={withBase(`/images/services/${service.image}.png`)} alt={service.title} className="w-75" />
                             </div>
                         </div>
                     ))}

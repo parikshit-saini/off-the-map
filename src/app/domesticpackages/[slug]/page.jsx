@@ -1,3 +1,4 @@
+import { BASE_PATH, withBase } from "@/lib/basePath";
 import React from 'react';
 import Link from 'next/link';
 import { notFound } from 'next/navigation';
@@ -61,7 +62,7 @@ export function generateMetadata({ params }) {
             seo.ogDescription || metaDescription;
 
         const ogImage =
-            seo.ogImage || `/images/domestic/${image || 'bali'}.webp`;
+            seo.ogImage || withBase(`/images/domestic/${image || 'bali'}.webp`);
 
         return {
             title: metaTitle,
@@ -98,7 +99,7 @@ export function generateMetadata({ params }) {
                 title: `${destName} Tour Packages`,
                 description: desc,
                 url: `/domesticpackages/${slug}/`,
-                images: [`/images/domestic/${firstImg}.webp`],
+                images: [withBase(`/images/domestic/${firstImg}.webp`)],
             },
         };
     }
@@ -154,7 +155,7 @@ export default function DomesticPackage({ params }) {
                             <div className="col-12">
                                 <div
                                     className="banner"
-                                    style={{ backgroundImage: `url(/images/domestic/${heroImg}.webp)` }}
+                                    style={{ backgroundImage: `url(${BASE_PATH}/images/domestic/${heroImg}.webp)` }}
                                 >
                                     <div className="pageName text-center">
                                         <h1>{destTitle} Packages</h1>
@@ -177,7 +178,7 @@ export default function DomesticPackage({ params }) {
                                         <div
                                             className="card-img-top"
                                             style={{
-                                                backgroundImage: `url(/images/${data.image || 'bali'}.webp)`,
+                                                backgroundImage: `url(${BASE_PATH}/images/${data.image || 'bali'}.webp)`,
                                                 backgroundSize: 'cover',
                                                 backgroundPosition: 'center',
                                                 height: '200px',
@@ -226,7 +227,7 @@ export default function DomesticPackage({ params }) {
                         <div className="col-12">
                             <div
                                 className="banner"
-                                style={{ backgroundImage: `url(/images/domestic/${image || 'bali'}.webp)` }}
+                                style={{ backgroundImage: `url(${BASE_PATH}/images/domestic/${image || 'bali'}.webp)` }}
                             >
                                 <div className="pageName text-center">
                                     <h1>{title}</h1>
@@ -382,8 +383,8 @@ export default function DomesticPackage({ params }) {
                                                     <img
                                                         src={
                                                             food?.image
-                                                                ? `/images/domestic/foodImages/${food.image}.jpg`
-                                                                : `/images/domestic/foodImages/food-placeholder.jpg`
+                                                                ? withBase(`/images/domestic/foodImages/${food.image}.jpg`)
+                                                                : withBase(`/images/domestic/foodImages/food-placeholder.jpg`)
                                                         }
                                                         alt={food?.dish}
                                                         className="card-img-top object-fit-cover"

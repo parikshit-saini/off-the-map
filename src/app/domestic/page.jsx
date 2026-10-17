@@ -1,5 +1,6 @@
 "use client";
 
+import { BASE_PATH, withBase } from "@/lib/basePath";
 import tripsDataRaw from "../../data/DomesticPackages.json";
 
 export default function Domestic() {
@@ -19,11 +20,11 @@ export default function Domestic() {
             <div className="row g-4">
                 {tripsData.map((trip) => (
                     <div className="col-12 col-sm-6 col-lg-3" key={trip.id}>
-                        <a href={`/domesticpackages/${trip.path}`}>
+                        <a href={withBase(`/domesticpackages/${trip.path}`)}>
                             <div
                                 className="card text-white"
                                 style={{
-                                    backgroundImage: `url(/images/domestic/${trip.image}.webp)`,
+                                    backgroundImage: `url(${BASE_PATH}/images/domestic/${trip.image}.webp)`,
                                     backgroundSize: "cover",
                                     backgroundPosition: "center",
                                     minHeight: "250px",

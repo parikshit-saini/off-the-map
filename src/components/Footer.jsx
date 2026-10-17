@@ -1,7 +1,8 @@
+import { withBase } from "@/lib/basePath";
 import Faq from "./Faq";
 
 export default function Footer() {
-    const logo = "/logo_light.svg";
+    const logo = withBase("/logo_light.svg");
 
     return (
         <>
@@ -66,18 +67,18 @@ export default function Footer() {
                             <div className="row">
                                 <div className="col-md-6">
                                     <ul>
-                                        <li><a href="/about">About</a></li>
-                                        <li><a href="/services">Services</a></li>
-                                        <li><a href="/gallery">Gallery</a></li>
-                                        <li><a href="/faq">FAQ</a></li>
+                                        <li><a href={withBase("/about")}>About</a></li>
+                                        <li><a href={withBase("/services")}>Services</a></li>
+                                        <li><a href={withBase("/gallery")}>Gallery</a></li>
+                                        <li><a href={withBase("/faq")}>FAQ</a></li>
                                     </ul>
                                 </div>
                                 <div className="col-md-6">
                                     <ul>
-                                        <li><a href="/privacy-policy">Privacy Policy</a></li>
-                                        <li><a href="/cookies-policy">Cookies Policy</a></li>
-                                        <li><a href="/disclaimer">Disclaimer</a></li>
-                                        <li><a href="/terms-and-conditions">Terms & Conditions</a></li>
+                                        <li><a href={withBase("/privacy-policy")}>Privacy Policy</a></li>
+                                        <li><a href={withBase("/cookies-policy")}>Cookies Policy</a></li>
+                                        <li><a href={withBase("/disclaimer")}>Disclaimer</a></li>
+                                        <li><a href={withBase("/terms-and-conditions")}>Terms & Conditions</a></li>
                                     </ul>
                                 </div>
                             </div>
@@ -89,8 +90,8 @@ export default function Footer() {
                                 <div className="col-md-4">
                                     <ul>
                                         <li><b>Packages</b></li>
-                                        <li><a href="/domestic">Domestic</a></li>
-                                        <li><a href="/international">International</a></li>
+                                        <li><a href={withBase("/domestic")}>Domestic</a></li>
+                                        <li><a href={withBase("/international")}>International</a></li>
                                     </ul>
                                 </div>
                                 <div className="col-md-8">

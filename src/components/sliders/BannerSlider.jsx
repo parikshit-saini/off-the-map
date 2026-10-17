@@ -1,5 +1,6 @@
 "use client";
 
+import { withBase } from "@/lib/basePath";
 import { Swiper, SwiperSlide } from "swiper/react";
 import { Autoplay } from "swiper/modules";
 
@@ -9,22 +10,22 @@ import "swiper/css";
 export default function BannerSlider() {
     const banners = [
         {
-            desktop: "/images/banners/banner1-desktop.webp",
-            mobile: "/images/banners/banner1-mobile.webp",
+            desktop: withBase("/images/banners/banner1-desktop.webp"),
+            mobile: withBase("/images/banners/banner1-mobile.webp"),
             alt: "Travel Banner 1",
-            link: "/packages"
+            link: withBase("/packages")
         },
         {
-            desktop: "/images/banners/banner2-desktop.webp",
-            mobile: "/images/banners/banner2-mobile.webp",
+            desktop: withBase("/images/banners/banner2-desktop.webp"),
+            mobile: withBase("/images/banners/banner2-mobile.webp"),
             alt: "Travel Banner 2",
-            link: "/domestic"
+            link: withBase("/domestic")
         },
         {
-            desktop: "/images/banners/banner3-desktop.webp",
-            mobile: "/images/banners/banner3-mobile.webp",
+            desktop: withBase("/images/banners/banner3-desktop.webp"),
+            mobile: withBase("/images/banners/banner3-mobile.webp"),
             alt: "Travel Banner 3",
-            link: "/international"
+            link: withBase("/international")
         }
     ];
 
